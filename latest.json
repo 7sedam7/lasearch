@@ -1,2 +1,11 @@
 {
+  "version": "0.1.1",
+  "notes": "This is a test release",
+  "pub_date": "2025-04-12T18:55:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBS3lOdzlKZVI4dnN1Z0UxajZER0ZtWGt4MVFsc29BaHlMT0syVFFHQnE2L0FYV2FwRWZXOGpySGRqSXd2VVlycmZpTDRvNkxQOEd6OVlHeGJmQUxDV0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NDc3MTIwCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpack1SWHNab3l3aGhacjZaQk8rSzhDc2diYTg0RjNjT3lJaVZ0UWtXcnFTckFKZUxQQ3RNbkZGVklTUS93T09GTE9DdXhORnp6Zlg2TVJJYkpKdmRCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/7sedam7/lasearch/refs/heads/main/lasearch.app.tar.gz"
+    }
+  }
 }
