@@ -3,14 +3,6 @@
   "notes": "This is a test release",
   "pub_date": "2025-04-12T17:08:00Z",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
-    "windows-x86_64": {
-      "signature": "",
-      "url": ""
-    },
     "darwin-x86_64": {
       "signature": "",
       "url": "https://raw.githubusercontent.com/7sedam7/lasearch/refs/heads/main/lasearch_0.1.1_x64.app.tar.gz"
