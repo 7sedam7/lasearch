@@ -1,10 +1,10 @@
 {
-  "version": "0.1.2",
-  "notes": "Running update of spaces in the background, and smaller improvements.",
-  "pub_date": "2025-04-12T18:55:00Z",
+  "version": "0.1.3",
+  "notes": "Smaller fixes and improvements.",
+  "pub_date": "2025-04-13T19:17:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzdORVNRcTZubEFGNytLTkF3ZFc5cGlCWGIvR2QxcGFYTTNTS0tWMGpzMStuZTBIcmQraEFkajNSVVdkVjdGaWlwZTdsTEN5UzNlbE5nYkE5UHROQmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTUyOTE1CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpOZlFCakR3ZnhSRktrd3JSNHpPZUtjS0hHYk1jdVM4TjR4SWVhTHpGZmtiUzh3Yk1La2k1N2dGMWp5MElHQVZaVUpzeExQcXUzZFQrWVJTQ2NOUTVCUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzhxeHFyOTVZZVduN2ZncFJzTTJ1Q3V5M3IvNlgrTllGdG80LzZTMkJyZXE5QzZVWDFqTURRbytuQkI4K05udDlmUUlzY3dUWjRCMjFJcWIvVGxjbVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTYwOTAxCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpOUlJjZk10Yms0ZFFSV0RveFNSMVM5NVVSdko0aDArSVZWUlJxYmowZ3U1c2hZSnBCL2dnSm1IbFJxVmdoK29rUTBOVm1NWCtGRUNPdHRTMTZKZHVCQT09Cg==",
       "url": "https://raw.githubusercontent.com/7sedam7/lasearch/refs/heads/main/lasearch.app.tar.gz"
     }
   }
