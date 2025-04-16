@@ -1,10 +1,10 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "notes": "La improvements",
-  "pub_date": "2025-04-14T23:30:00Z",
+  "pub_date": "2025-04-16T16:22:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzdzdnVieUx6Rlc1QkRNTnIzVUk0OThaeHZvOHloeCt3UWhpZllMTU9wVGJTYzNvQjlNL3NNeGdaK0lmRzBwU2IvQzNYR2s2QTM2ZGt6RHQvamZrSlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NjYyNTc1CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negoyL24wdGdDTTFkaUpSL1MwUWo4ZDYvbHdEN1RxOUxlMG9HSTNocGdQcHNNdTNkeDNVZWYrUVNBL3JFOWZSTkhCV1VEbHB3VTlqMW56RU5zcnFXU1BEdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzBYWHF5bXVHMGpGaXcyT2hyb25lYW9WSmEraWJXOTU5MWlwdnM0a2xEWkIxaldCR2M0Z2pOUi9kUXhuMWFHYjU4MHZleWNsZWR1K0FlU1NKQ240ZFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODA5NjYxCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpCVlY2VnFwellKdU9yMWJBZ2dsZ2dPNWZoT3ZmRWh4M3pKaGJ2d3BuREdXN3VmMHFiY3RDMXpJbkRGcS90NkNWVkRQaDdsMVJEcHVMWnFCNllIMCtEdz09Cg==",
       "url": "https://raw.githubusercontent.com/7sedam7/lasearch/refs/heads/main/lasearch.app.tar.gz"
     }
   }
