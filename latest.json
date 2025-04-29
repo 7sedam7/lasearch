@@ -1,11 +1,11 @@
 {
   "version": "0.1.10",
-  "notes": "La improvements, fixed a bug",
+  "notes": "La improvements: Nothing useful for the user, new licencing model.",
   "pub_date": "2025-04-26T12:20:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzFDbm5tZk4wQnUwdWRsMXNnQURKaFdpbDlnQkFBa3RXUUx0Uzk1VUQxalhuSFYwTEZ2Z1RnRTFwcEhBSFFBRGgrUkloNWhERlp1M2wra09FcUhuYWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1NjU5NDc1CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpsUkFudkU2VE12aW55aUVvcHBOWTUvVDI3aThWU1Q4YVp5OG9ic0pDSmF5aHpGOEVWV0xnK1NXWE5XVnBYUEIrUjUvM3NDTVUzZWRsUXhRd29hUHNCZz09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.1.10/lasearch.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzFDL2VNQThWWDU3Z3dJSmo4YlNldkZad2l4WW52N2UrWWVianF2ZTd4Y2hhN2dmcHRLTldJb0ZXa1VXY0xQQ0Joc21MVUFPY0JOTGk5YjduOTdoWGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1OTI1NjY4CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpHMzZPejYzbHFQdDUvMFdCbDNVbFpaR0lWSGR3U3BFcU1DaEZ3M3lNVE42NktQYVBLd2lQMHhBUk1xMFVNZUtkSXlkYVVWeFoveHRIdWRrZ1NKdXREdz09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.1.11/lasearch.app.tar.gz"
     }
   }
 }
