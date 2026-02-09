@@ -1,12 +1,11 @@
 {
-  "version": "0.1.15",
-  "beta": true,
-  "notes": "<div style=\"font-family: Arial, sans-serif; line-height: 1.6; background-color: #000000; color: #e0e0e0; padding: 20px; border-radius: 8px; max-width: 800px; margin: 0 auto;\">\n    <header style=\"background-color: #111111; color: white; padding: 15px; text-align: center; border-radius: 5px; margin-bottom: 20px;\">\n        <h1 style=\"margin: 0; font-size: 1.5em;\">LaSearch Application</h1>\n        <p style=\"margin: 5px 0; font-size: 1em;\">Release Notes</p>\n    </header>\n    <div style=\"margin-top: 20px;\">\n        <section style=\"margin-bottom: 20px;\">\n            <h2 style=\"color: #4fc3f7; font-size: 1.2em;\">Current Release: v0.1.15</h2>\n            <p style=\"margin: 10px 0;\">This release includes the following updates:</p>\n            <ul style=\"list-style-type: disc; padding-left: 20px; margin: 10px 0;\">\n                <li>Initial preparations for Ollama support, laying the groundwork for future local LLM integration.</li>\n            </ul>\n        </section>\n        <section>\n            <h2 style=\"color: #4fc3f7; font-size: 1.2em;\">Thank You!</h2>\n            <p style=\"margin: 10px 0;\">I appreciate your continued support and feedback. Stay tuned for more updates!</p>\n        </section>\n    </div>\n</div>\n",
-  "pub_date": "2025-06-03T23:51:38Z",
+  "version": "0.2.0",
+  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">What's new</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li>Major engine overhaul — indexing and search are significantly faster and now scale to millions of files.</li>\\n            <li>Real-time progress information during indexing.</li>\\n            <li>Unified setup for space creation with command previews organized under the menu.</li>\\n            <li>Completely reworked file preview with syntax highlighting and formatting for text-based files.</li>\\n            <li>Preview support for PDFs, Word, Excel, and other document types.</li>\\n            <li>New themes and color schemes to match your preferred look.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
+  "pub_date": "2026-02-09T15:20:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzBIZCthWnVpTXUyQUFzVnB3ZFhQeHhaNnJ2TldjOGhub282Nlp4MHJTbXQ3ZEtYSlh1dGRpSWs4K3pJQU1JWVZJeVhPWjJvWEFVYkdHeW5WVVV1SmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU1NTI1MDI4CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpIZWlPNFFtQkF3NERBWjJsaVp2cXA2WVkzOHRxcGs2b3hNTGQ5VTdVOFR4L3ZEQU1IeTJ0Qzl2L0ZhYmRmcDdmL1o1TnI4R3JoZSs2c1lPQlc2U0RDZz09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.1.15/lasearch.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzk5MGhHQjRzMitSbFB5UUFnKzRIVzdKbVhJZkhleTkwNExtdHl3TFJOK1RQaHFxajNLWDBSTmdGcUtHcndqeWNTQmIzR3hqbWNsQXRNc05NQ1RwK3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjQ5MzQxCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpoeEc5eFVZTTFjS3hJTjRlK1JDeU94MzZlQ0doUDJ2RHEzSWF6YmtCOFVNKythVURWZjlhVitqVkxiNWd0K0ltdHN6SXVWeGYzM0JaTFdWUmxpUS9EUT09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.2.0/lasearch.app.tar.gz"
     }
   }
 }
