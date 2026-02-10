@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">What's new</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li>Major engine overhaul — indexing and search are significantly faster and now scale to millions of files.</li>\\n            <li>Real-time progress information during indexing.</li>\\n            <li>Unified setup for space creation with command previews organized under the menu.</li>\\n            <li>Completely reworked file preview with syntax highlighting and formatting for text-based files.</li>\\n            <li>Preview support for PDFs, Word, Excel, and other document types.</li>\\n            <li>New themes and color schemes to match your preferred look.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
-  "pub_date": "2026-02-09T15:20:25Z",
+  "version": "0.2.1",
+  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">What's new</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li>Onboarding guide for new users — set your hotkey and learn about spaces on first launch.</li>\\n            <li>System tray icon with Show/Hide and Quit options.</li>\\n            <li>Indexing queue — spaces are now indexed one at a time with visible queue status.</li>\\n            <li>Background reindex now shows progress for spaces being indexed for the first time.</li>\\n            <li>Compacted space info preview layout.</li>\\n            <li>Fixed a bug where file modification times were not compared correctly, causing unnecessary re-indexing.</li>\\n            <li>macOS: ~/Library is now automatically skipped during indexing.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
+  "pub_date": "2026-02-10T21:33:14Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzk5MGhHQjRzMitSbFB5UUFnKzRIVzdKbVhJZkhleTkwNExtdHl3TFJOK1RQaHFxajNLWDBSTmdGcUtHcndqeWNTQmIzR3hqbWNsQXRNc05NQ1RwK3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNjQ5MzQxCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpoeEc5eFVZTTFjS3hJTjRlK1JDeU94MzZlQ0doUDJ2RHEzSWF6YmtCOFVNKythVURWZjlhVitqVkxiNWd0K0ltdHN6SXVWeGYzM0JaTFdWUmxpUS9EUT09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.2.0/lasearch.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzR1VFdBSmxZampmWkdLeDJHVXRuSFFqeXp6UnlETnpaN0o2UjRxS2J3VjhYMFlLZ2pJWHVsNmF3Z2gwMFBLUWpTRG5WeUgyQUh2WmdZQmV3cWVlR3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNzU5MTk0CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpXQVYxU09DNlExWVVqWllCd214TG9LbkhVc0lGZ0ZUZ2JYNmdGY1NJaEorZDRCZHd2ZEtmRWQxZDBTUHJqT0VKVEZURTlsMzV2YUNLbkFaZURTVnFDQT09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.2.1/lasearch.app.tar.gz"
     }
   }
 }
