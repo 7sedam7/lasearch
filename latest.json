@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">What's new</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li>Error logging — the app now logs errors and warnings to a local log file, making it easier to report and diagnose issues. Use the <span class=\\\"text-foreground\\\">/logs</span> command to view the latest log file.</li>\\n            <li>Improved stability — fixed several edge cases that could cause crashes during indexing and search.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
-  "pub_date": "2026-02-12T19:16:15Z",
+  "pub_date": "2026-02-12T19:28:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBS3d4cVBMbDMyS1FUZ0JTejM1WWRsNTljaFpRZnBxVlhwRmNOQzVWQnJtNFUxWDZSb2pSR2hNR3orS3A0TDBFaGQ4QjJieWJBQUgvbU01a2dPQkFPZEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTIzNzc1CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpRL2hidklrZEJxQ043cGN2cGludGY1TGdJZS8rQWdoMzRtL2hiV1Q3aEY3MGcxUi9zdzJGZUMwbzJWVVV2QWo2S1V2SndQd3M3cXV6VW1RVmV3Vi9Cdz09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.3.2/lasearch.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzduek13K2VWWUthcUM5ZExnaS92YUcxdTBsTURmRjZRUHlXOXcrckJONjg0NUdKRm5WdGtQNVBIaG1FYUY4SDZEbWcrVGJNWVhPeHJUMW4xQVJkbUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTI0NTM2CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpqeTVZZ1hpNWczM1dMdld4VU9MWEE5ODZ5Y3NDMGpIMk1WVE1pTGxldE81OE1pb3lwb0IyREFQRS9ZaXplRFlFUktCczdZaUZIVmZsN1FFdm80ZWJDQT09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.3.3/lasearch.app.tar.gz"
     }
   }
 }
