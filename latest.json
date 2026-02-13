@@ -1,11 +1,11 @@
 {
-  "version": "0.3.4",
-  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">What's new</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li>Diagnostic logging — if you run into issues, use the <span class=\\\"text-foreground\\\">/logs</span> command to view the latest log file. Share it when reporting a bug to help us resolve it faster.</li>\\n            <li>Fixed a crash that could occur when indexing certain Excel (.xls) files.</li>\\n            <li>Improved overall stability during indexing and search.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
-  "pub_date": "2026-02-13T09:15:21Z",
+  "version": "0.3.5",
+  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">What's new</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li>SBOM (Software Bill of Materials) files are now included in each GitHub release for full supply chain transparency.</li>\\n            <li>Third-party license attribution files are now bundled with the app.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
+  "pub_date": "2026-02-13T12:25:42Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSytuVU8xeGtiZFVxaHBoNkRFMHptYVZWOGJINUl0MEt4UmROQlI4YWcrOGVDVTNPRHJkTVVidlRPckJQdzkveHNCcklaaytESjJlK2wrbkhBRFFDc0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTc0MTIxCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpDODJqeGg4YklGVkM5Z2hlNUdyb28rZXpHWklOdkxqODdvU094QmpoWGlvaXVFYUl1eFpDRFkvQlF1UFhSMUh2ZndrZWtIYkFidFhwZEpDWHROb2tEUT09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.3.4/lasearch.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzI4M29aa2sxSm1zS2grblBIMm04NFJBV3AvTzNoalo4dFphYWdiMWQ1R29Bem5ZN3JaN296UUxGejFnL3JkVHJwMEtVd3ZtSko0VU1UV21PUThuSFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTg1NTQyCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpLczNWM2tLckhSUjA0VHh1ZWtnc3QraExFWkNJM25GNkFRRlQ0Z1lzVGFTNG5CYThxNGszajRWSE9QWHZvNTdsa0Nyb2hVanI3U1U4bk53ZWRQc1ZDUT09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.3.5/lasearch.app.tar.gz"
     }
   }
 }
