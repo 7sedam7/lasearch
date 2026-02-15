@@ -2,9 +2,9 @@
   "bomFormat": "CycloneDX",
   "specVersion": "1.3",
   "version": 1,
-  "serialNumber": "urn:uuid:57414ea4-30cb-4f5a-838b-972d8161f422",
+  "serialNumber": "urn:uuid:e24dc5d4-b418-4869-8404-a70ad1ecb0c2",
   "metadata": {
-    "timestamp": "2026-02-15T14:05:54.573655000Z",
+    "timestamp": "2026-02-15T14:30:45.434358000Z",
     "tools": [
       {
         "vendor": "CycloneDX",
@@ -19,10 +19,10 @@
     ],
     "component": {
       "type": "application",
-      "bom-ref": "path+file:///Users/joelkunst/LocalRepos/LaSearch/tauri-client/src-tauri#lasearch@0.4.1",
+      "bom-ref": "path+file:///Users/joelkunst/LocalRepos/LaSearch/tauri-client/src-tauri#lasearch@0.4.2",
       "author": "Joel Kunst",
       "name": "lasearch",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "description": "LaSearch is a fast and lightweight search tool.",
       "scope": "required",
       "licenses": [
@@ -30,21 +30,21 @@
           "expression": "LicenseRef-Proprietary"
         }
       ],
-      "purl": "pkg:cargo/lasearch@0.4.1?download_url=file://.",
+      "purl": "pkg:cargo/lasearch@0.4.2?download_url=file://.",
       "components": [
         {
           "type": "library",
-          "bom-ref": "path+file:///Users/joelkunst/LocalRepos/LaSearch/tauri-client/src-tauri#lasearch@0.4.1 bin-target-0",
+          "bom-ref": "path+file:///Users/joelkunst/LocalRepos/LaSearch/tauri-client/src-tauri#lasearch@0.4.2 bin-target-0",
           "name": "lasearch_lib",
-          "version": "0.4.1",
-          "purl": "pkg:cargo/lasearch@0.4.1?download_url=file://.#src/lib.rs"
+          "version": "0.4.2",
+          "purl": "pkg:cargo/lasearch@0.4.2?download_url=file://.#src/lib.rs"
         },
         {
           "type": "application",
-          "bom-ref": "path+file:///Users/joelkunst/LocalRepos/LaSearch/tauri-client/src-tauri#lasearch@0.4.1 bin-target-1",
+          "bom-ref": "path+file:///Users/joelkunst/LocalRepos/LaSearch/tauri-client/src-tauri#lasearch@0.4.2 bin-target-1",
           "name": "lasearch",
-          "version": "0.4.1",
-          "purl": "pkg:cargo/lasearch@0.4.1?download_url=file://.#src/main.rs"
+          "version": "0.4.2",
+          "purl": "pkg:cargo/lasearch@0.4.2?download_url=file://.#src/main.rs"
         }
       ]
     },
@@ -21811,7 +21811,7 @@
       ]
     },
     {
-      "ref": "path+file:///Users/joelkunst/LocalRepos/LaSearch/tauri-client/src-tauri#lasearch@0.4.1",
+      "ref": "path+file:///Users/joelkunst/LocalRepos/LaSearch/tauri-client/src-tauri#lasearch@0.4.2",
       "dependsOn": [
         "path+file:///Users/joelkunst/LocalRepos/LaSearch/bh_licence#0.1.0",
         "path+file:///Users/joelkunst/LocalRepos/LaSearch/black-hole#0.1.0",
