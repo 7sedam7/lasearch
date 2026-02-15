@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">What's new</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li>Search within specific spaces — type <code>@</code> to select spaces, then search only within them.</li>\\n            <li>Selected spaces appear as compact chips in the search bar with keyboard navigation support.</li>\\n            <li>Backspace at the start of the search input removes the last selected space.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
-  "pub_date": "2026-02-13T16:36:31Z",
+  "version": "0.4.1",
+  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">What's new</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li>Search within specific spaces — type <code>@</code> to select spaces, then search only within them.</li>\\n            <li>Selected spaces appear as compact chips in the search bar with keyboard navigation support.</li>\\n            <li>Backspace at the start of the search input removes the last selected space.</li>\\n            <li>Fixed search becoming unresponsive while indexing is in progress.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
+  "pub_date": "2026-02-15T14:10:02Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBS3kvZDFjUFpHaU9iM093SkQyM1VaUG8yYUh1dE82RFZzeTdkSTM3bWc0WUdtQU4zblJHNlM2MktPOUFtdThLMUc2VEZ5dVFUOW82V1NoeXNxNTdxbWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMDAwNTkxCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negorODN0UnlRdmg4ZGNQdkFEclhvMDF6bVl6WmNUcDJPN3dIaGkzQVN0UGg1bzBGRGdxNkNYK1kxbDRiVVI3SVczUEwxQkxUL2RxaStIQnkwcVp5RTNBZz09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.4.0/lasearch.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzR0bkxzNldDMkxHbi9sTVloZGIvRjhjZ2krQ1pXejdScWdqeDk1OUw2YWFMY2hPV0RZMGVBaTJuQk1ZY0dGTjdYT3lkTmhRYWh0VEFleDY5OUhscWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTY0NjAyCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpoakIrN1VmK3NrWE9GUkZxRnFYaXQ1OUFiN1psczRpYk9JVGZFTytEc3daV1FwK2pPeUFldWFjbE5Fd2dRc1UvQURuMVVMZXNJMjVSWGR5Uis0QjJCUT09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.4.1/lasearch.app.tar.gz"
     }
   }
 }
