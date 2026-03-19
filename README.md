@@ -18,7 +18,7 @@ LaSearch lives in your menu bar and is summoned with a global keyboard shortcut.
 
 A **Space** is a searchable collection of files. Create a space, point it at one or more folders, and LaSearch indexes everything inside.
 
-- Organize your files into logical groups (e.g., "Work Documents", "Photos", "Code Projects")
+- Use spaces to narrow down search by grouping things you'll want to search specifically (e.g., your Obsidian vault, a project folder, Downloads)
 - Each space is indexed independently
 - Filter search to specific spaces with `@`
 - More sources beyond local folders (email, cloud storage, etc.) are coming soon
@@ -45,6 +45,7 @@ Type `/` to access commands:
 | `/update application` | Check for updates |
 | `/logs` | View application logs |
 | `/help` | Show help |
+| `/feedback` | Report issue or suggest a feature |
 | `/exit` | Exit LaSearch |
 
 ### Supported File Types
@@ -59,7 +60,7 @@ LaSearch can index and search a wide range of file types:
 
 ## Privacy
 
-LaSearch never sends your data anywhere. Search indices are built and stored locally. The only network requests the app makes are checking for updates (via GitHub). When online service integrations (email, cloud storage) are added, they will connect directly to the service provider — no data will ever pass through LaSearch servers.
+LaSearch never sends your data anywhere. Search indices are built and stored locally. The only network requests the app makes are checking for updates and fetching open issues for the feedback command (both via GitHub). When online service integrations (email, cloud storage) are added, they will connect directly to the service provider — no data will ever pass through LaSearch servers.
 
 See the full [Privacy Policy](https://lasearch.app/privacy-policy).
 
