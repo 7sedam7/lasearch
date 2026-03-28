@@ -3,9 +3,9 @@
   "bomFormat": "CycloneDX",
   "specVersion": "1.6",
   "version": 1,
-  "serialNumber": "urn:uuid:154a7e1c-d830-4376-a78d-7625ff4a4b86",
+  "serialNumber": "urn:uuid:cf363ec2-43c9-4095-b1e3-bd3e610b6d03",
   "metadata": {
-    "timestamp": "2026-03-19T18:13:25.071Z",
+    "timestamp": "2026-03-28T14:21:05.313Z",
     "tools": {
       "components": [
         {
@@ -82,8 +82,8 @@
     "component": {
       "type": "application",
       "name": "lasearch",
-      "version": "0.5.0",
-      "bom-ref": "lasearch@0.5.0",
+      "version": "0.5.1",
+      "bom-ref": "lasearch@0.5.1",
       "licenses": [
         {
           "license": {
@@ -92,7 +92,7 @@
           }
         }
       ],
-      "purl": "pkg:npm/lasearch@0.5.0",
+      "purl": "pkg:npm/lasearch@0.5.1",
       "properties": [
         {
           "name": "cdx:npm:package:path",
@@ -107,7 +107,7 @@
       "name": "svelte-simple-icons",
       "group": "@icons-pack",
       "version": "7.1.0",
-      "bom-ref": "lasearch@0.5.0|@icons-pack/svelte-simple-icons@7.1.0",
+      "bom-ref": "lasearch@0.5.1|@icons-pack/svelte-simple-icons@7.1.0",
       "author": "Jorge Luis Calleja",
       "description": "This package provides the Simple Icons packaged as a set of Svelte components.",
       "licenses": [
@@ -159,7 +159,7 @@
       "name": "date",
       "group": "@internationalized",
       "version": "3.11.0",
-      "bom-ref": "lasearch@0.5.0|@internationalized/date@3.11.0",
+      "bom-ref": "lasearch@0.5.1|@internationalized/date@3.11.0",
       "description": "Internationalized calendar, date, and time manipulation utilities",
       "licenses": [
         {
@@ -214,7 +214,7 @@
       "name": "epub-js",
       "group": "@intity",
       "version": "0.3.96",
-      "bom-ref": "lasearch@0.5.0|@intity/epub-js@0.3.96",
+      "bom-ref": "lasearch@0.5.1|@intity/epub-js@0.3.96",
       "author": "fchasen@gmail.com",
       "description": "Parse and Renderer EPUB containers",
       "licenses": [
@@ -265,7 +265,7 @@
           "type": "library",
           "name": "marked",
           "version": "15.0.12",
-          "bom-ref": "lasearch@0.5.0|@intity/epub-js@0.3.96|marked@15.0.12",
+          "bom-ref": "lasearch@0.5.1|@intity/epub-js@0.3.96|marked@15.0.12",
           "author": "Christopher Jeffrey",
           "description": "A markdown parser built for speed",
           "licenses": [
@@ -319,7 +319,7 @@
       "name": "svelte",
       "group": "@lucide",
       "version": "0.554.0",
-      "bom-ref": "lasearch@0.5.0|@lucide/svelte@0.554.0",
+      "bom-ref": "lasearch@0.5.1|@lucide/svelte@0.554.0",
       "author": "Eric Fennis",
       "description": "A Lucide icon library package for Svelte applications.",
       "licenses": [
@@ -375,7 +375,7 @@
       "name": "svgl-svelte",
       "group": "@selemondev",
       "version": "2.1.2",
-      "bom-ref": "lasearch@0.5.0|@selemondev/svgl-svelte@2.1.2",
+      "bom-ref": "lasearch@0.5.1|@selemondev/svgl-svelte@2.1.2",
       "author": "Selemondev",
       "description": "An optimized package with SVG logos to be used as Svelte components ✨",
       "licenses": [
@@ -427,7 +427,7 @@
       "name": "adapter-static",
       "group": "@sveltejs",
       "version": "3.0.10",
-      "bom-ref": "lasearch@0.5.0|@sveltejs/adapter-static@3.0.10",
+      "bom-ref": "lasearch@0.5.1|@sveltejs/adapter-static@3.0.10",
       "description": "Adapter for SvelteKit apps that prerenders your entire site as a collection of static files",
       "licenses": [
         {
@@ -482,7 +482,7 @@
       "name": "kit",
       "group": "@sveltejs",
       "version": "2.53.4",
-      "bom-ref": "lasearch@0.5.0|@sveltejs/kit@2.53.4",
+      "bom-ref": "lasearch@0.5.1|@sveltejs/kit@2.53.4",
       "description": "SvelteKit is the fastest way to build Svelte apps",
       "licenses": [
         {
@@ -533,7 +533,7 @@
       "name": "vite-plugin-svelte",
       "group": "@sveltejs",
       "version": "6.2.4",
-      "bom-ref": "lasearch@0.5.0|@sveltejs/vite-plugin-svelte@6.2.4",
+      "bom-ref": "lasearch@0.5.1|@sveltejs/vite-plugin-svelte@6.2.4",
       "author": "dominikg",
       "licenses": [
         {
@@ -584,7 +584,7 @@
       "name": "vite",
       "group": "@tailwindcss",
       "version": "4.1.18",
-      "bom-ref": "lasearch@0.5.0|@tailwindcss/vite@4.1.18",
+      "bom-ref": "lasearch@0.5.1|@tailwindcss/vite@4.1.18",
       "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
       "licenses": [
         {
@@ -635,7 +635,7 @@
       "name": "api",
       "group": "@tauri-apps",
       "version": "2.10.1",
-      "bom-ref": "lasearch@0.5.0|@tauri-apps/api@2.10.1",
+      "bom-ref": "lasearch@0.5.1|@tauri-apps/api@2.10.1",
       "description": "Tauri API definitions",
       "licenses": [
         {
@@ -684,7 +684,7 @@
       "name": "cli",
       "group": "@tauri-apps",
       "version": "2.10.0",
-      "bom-ref": "lasearch@0.5.0|@tauri-apps/cli@2.10.0",
+      "bom-ref": "lasearch@0.5.1|@tauri-apps/cli@2.10.0",
       "description": "Command line interface for building Tauri apps",
       "licenses": [
         {
@@ -737,7 +737,7 @@
       "name": "plugin-dialog",
       "group": "@tauri-apps",
       "version": "2.6.0",
-      "bom-ref": "lasearch@0.5.0|@tauri-apps/plugin-dialog@2.6.0",
+      "bom-ref": "lasearch@0.5.1|@tauri-apps/plugin-dialog@2.6.0",
       "licenses": [
         {
           "expression": "MIT OR Apache-2.0",
@@ -785,7 +785,7 @@
       "name": "plugin-opener",
       "group": "@tauri-apps",
       "version": "2.5.3",
-      "bom-ref": "lasearch@0.5.0|@tauri-apps/plugin-opener@2.5.3",
+      "bom-ref": "lasearch@0.5.1|@tauri-apps/plugin-opener@2.5.3",
       "description": "Open files and URLs using their default application.",
       "licenses": [
         {
@@ -834,7 +834,7 @@
       "name": "plugin-process",
       "group": "@tauri-apps",
       "version": "2.3.1",
-      "bom-ref": "lasearch@0.5.0|@tauri-apps/plugin-process@2.3.1",
+      "bom-ref": "lasearch@0.5.1|@tauri-apps/plugin-process@2.3.1",
       "licenses": [
         {
           "expression": "MIT OR Apache-2.0",
@@ -882,7 +882,7 @@
       "name": "plugin-shell",
       "group": "@tauri-apps",
       "version": "2.3.5",
-      "bom-ref": "lasearch@0.5.0|@tauri-apps/plugin-shell@2.3.5",
+      "bom-ref": "lasearch@0.5.1|@tauri-apps/plugin-shell@2.3.5",
       "licenses": [
         {
           "expression": "MIT OR Apache-2.0",
@@ -930,7 +930,7 @@
       "name": "plugin-updater",
       "group": "@tauri-apps",
       "version": "2.10.0",
-      "bom-ref": "lasearch@0.5.0|@tauri-apps/plugin-updater@2.10.0",
+      "bom-ref": "lasearch@0.5.1|@tauri-apps/plugin-updater@2.10.0",
       "licenses": [
         {
           "expression": "MIT OR Apache-2.0",
@@ -978,7 +978,7 @@
       "name": "dompurify",
       "group": "@types",
       "version": "3.0.5",
-      "bom-ref": "lasearch@0.5.0|@types/dompurify@3.0.5",
+      "bom-ref": "lasearch@0.5.1|@types/dompurify@3.0.5",
       "description": "TypeScript definitions for dompurify",
       "licenses": [
         {
@@ -1032,7 +1032,7 @@
       "type": "library",
       "name": "bits-ui",
       "version": "2.15.5",
-      "bom-ref": "lasearch@0.5.0|bits-ui@2.15.5",
+      "bom-ref": "lasearch@0.5.1|bits-ui@2.15.5",
       "author": "Hunter Johnston",
       "description": "The headless components for Svelte.",
       "licenses": [
@@ -1087,7 +1087,7 @@
       "type": "library",
       "name": "clsx",
       "version": "2.1.1",
-      "bom-ref": "lasearch@0.5.0|clsx@2.1.1",
+      "bom-ref": "lasearch@0.5.1|clsx@2.1.1",
       "author": "Luke Edwards",
       "description": "A tiny (239B) utility for constructing className strings conditionally.",
       "licenses": [
@@ -1138,7 +1138,7 @@
       "type": "library",
       "name": "dompurify",
       "version": "3.3.3",
-      "bom-ref": "lasearch@0.5.0|dompurify@3.3.3",
+      "bom-ref": "lasearch@0.5.1|dompurify@3.3.3",
       "author": "Dr.-Ing. Mario Heiderich, Cure53",
       "description": "DOMPurify is a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. It's written in JavaScript and works in all modern browsers (Safari, Opera (15+), Internet Explorer (10+), Firefox and Chrome - as well as almost anything else using Blink or WebKit). DOMPurify is written by security people who have vast background in web attacks and XSS. Fear not.",
       "licenses": [
@@ -1187,7 +1187,7 @@
       "type": "library",
       "name": "lucide-svelte",
       "version": "0.554.0",
-      "bom-ref": "lasearch@0.5.0|lucide-svelte@0.554.0",
+      "bom-ref": "lasearch@0.5.1|lucide-svelte@0.554.0",
       "author": "Eric Fennis",
       "description": "A Lucide icon library package for Svelte applications.",
       "licenses": [
@@ -1238,7 +1238,7 @@
       "type": "library",
       "name": "mammoth",
       "version": "1.11.0",
-      "bom-ref": "lasearch@0.5.0|mammoth@1.11.0",
+      "bom-ref": "lasearch@0.5.1|mammoth@1.11.0",
       "author": "Michael Williamson",
       "description": "Convert Word documents from docx to simple HTML and Markdown",
       "licenses": [
@@ -1289,7 +1289,7 @@
       "type": "library",
       "name": "shadcn-svelte",
       "version": "1.1.1",
-      "bom-ref": "lasearch@0.5.0|shadcn-svelte@1.1.1",
+      "bom-ref": "lasearch@0.5.1|shadcn-svelte@1.1.1",
       "author": "huntabyte & shadcn",
       "description": "Add components to your apps.",
       "licenses": [
@@ -1340,7 +1340,7 @@
       "type": "library",
       "name": "svelte-check",
       "version": "4.3.6",
-      "bom-ref": "lasearch@0.5.0|svelte-check@4.3.6",
+      "bom-ref": "lasearch@0.5.1|svelte-check@4.3.6",
       "author": "The Svelte Community",
       "description": "Svelte Code Checker Terminal Interface",
       "licenses": [
@@ -1395,7 +1395,7 @@
       "type": "library",
       "name": "svelte",
       "version": "5.53.7",
-      "bom-ref": "lasearch@0.5.0|svelte@5.53.7",
+      "bom-ref": "lasearch@0.5.1|svelte@5.53.7",
       "description": "Cybernetically enhanced web apps",
       "licenses": [
         {
@@ -1445,7 +1445,7 @@
       "type": "library",
       "name": "tailwind-merge",
       "version": "3.4.0",
-      "bom-ref": "lasearch@0.5.0|tailwind-merge@3.4.0",
+      "bom-ref": "lasearch@0.5.1|tailwind-merge@3.4.0",
       "author": "Dany Castillo",
       "description": "Merge Tailwind CSS classes without style conflicts",
       "licenses": [
@@ -1500,7 +1500,7 @@
       "type": "library",
       "name": "tailwind-variants",
       "version": "3.2.2",
-      "bom-ref": "lasearch@0.5.0|tailwind-variants@3.2.2",
+      "bom-ref": "lasearch@0.5.1|tailwind-variants@3.2.2",
       "author": "Junior Garcia",
       "description": "🦄 Tailwindcss first-class variant API",
       "licenses": [
@@ -1555,7 +1555,7 @@
       "type": "library",
       "name": "tailwindcss",
       "version": "4.1.18",
-      "bom-ref": "lasearch@0.5.0|tailwindcss@4.1.18",
+      "bom-ref": "lasearch@0.5.1|tailwindcss@4.1.18",
       "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
       "licenses": [
         {
@@ -1605,7 +1605,7 @@
       "type": "library",
       "name": "tw-animate-css",
       "version": "1.4.0",
-      "bom-ref": "lasearch@0.5.0|tw-animate-css@1.4.0",
+      "bom-ref": "lasearch@0.5.1|tw-animate-css@1.4.0",
       "author": "Luca Bosin",
       "description": "TailwindCSS v4.0 compatible replacement for `tailwindcss-animate`.",
       "licenses": [
@@ -1660,7 +1660,7 @@
       "type": "library",
       "name": "typescript",
       "version": "5.9.3",
-      "bom-ref": "lasearch@0.5.0|typescript@5.9.3",
+      "bom-ref": "lasearch@0.5.1|typescript@5.9.3",
       "author": "Microsoft Corp.",
       "description": "TypeScript is a language for application scale JavaScript development",
       "licenses": [
@@ -1715,7 +1715,7 @@
       "type": "library",
       "name": "vite",
       "version": "7.3.1",
-      "bom-ref": "lasearch@0.5.0|vite@7.3.1",
+      "bom-ref": "lasearch@0.5.1|vite@7.3.1",
       "author": "Evan You",
       "description": "Native-ESM powered web dev build tool",
       "licenses": [
@@ -1766,7 +1766,7 @@
       "type": "library",
       "name": "xlsx",
       "version": "0.20.3",
-      "bom-ref": "lasearch@0.5.0|xlsx@0.20.3",
+      "bom-ref": "lasearch@0.5.1|xlsx@0.20.3",
       "author": "sheetjs",
       "description": "SheetJS Spreadsheet data parser and writer",
       "licenses": [
@@ -1818,7 +1818,7 @@
       "name": "helpers",
       "group": "@swc",
       "version": "0.5.18",
-      "bom-ref": "lasearch@0.5.0|@swc/helpers@0.5.18",
+      "bom-ref": "lasearch@0.5.1|@swc/helpers@0.5.18",
       "author": "강동윤",
       "description": "External helpers for the swc project.",
       "licenses": [
@@ -1873,7 +1873,7 @@
       "type": "library",
       "name": "assert",
       "version": "2.1.0",
-      "bom-ref": "lasearch@0.5.0|assert@2.1.0",
+      "bom-ref": "lasearch@0.5.1|assert@2.1.0",
       "description": "The assert module from Node.js, for the browser.",
       "licenses": [
         {
@@ -1923,7 +1923,7 @@
       "type": "library",
       "name": "core-js",
       "version": "3.48.0",
-      "bom-ref": "lasearch@0.5.0|core-js@3.48.0",
+      "bom-ref": "lasearch@0.5.1|core-js@3.48.0",
       "author": "Denis Pushkarev",
       "description": "Standard library",
       "licenses": [
@@ -1974,7 +1974,7 @@
       "type": "library",
       "name": "event-emitter",
       "version": "0.3.5",
-      "bom-ref": "lasearch@0.5.0|event-emitter@0.3.5",
+      "bom-ref": "lasearch@0.5.1|event-emitter@0.3.5",
       "author": "Mariusz Nowak",
       "description": "Environment agnostic event emitter",
       "licenses": [
@@ -2025,7 +2025,7 @@
       "type": "library",
       "name": "jszip",
       "version": "3.10.1",
-      "bom-ref": "lasearch@0.5.0|jszip@3.10.1",
+      "bom-ref": "lasearch@0.5.1|jszip@3.10.1",
       "author": "Stuart Knightley",
       "description": "Create, read and edit .zip files with JavaScript http://stuartk.com/jszip",
       "licenses": [
@@ -2074,7 +2074,7 @@
       "type": "library",
       "name": "localforage",
       "version": "1.10.0",
-      "bom-ref": "lasearch@0.5.0|localforage@1.10.0",
+      "bom-ref": "lasearch@0.5.1|localforage@1.10.0",
       "author": "Mozilla",
       "description": "Offline storage, improved.",
       "licenses": [
@@ -2125,7 +2125,7 @@
           "type": "library",
           "name": "lie",
           "version": "3.1.1",
-          "bom-ref": "lasearch@0.5.0|localforage@1.10.0|lie@3.1.1",
+          "bom-ref": "lasearch@0.5.1|localforage@1.10.0|lie@3.1.1",
           "description": "A basic but performant promise implementation",
           "licenses": [
             {
@@ -2177,7 +2177,7 @@
       "type": "library",
       "name": "lodash",
       "version": "4.17.23",
-      "bom-ref": "lasearch@0.5.0|lodash@4.17.23",
+      "bom-ref": "lasearch@0.5.1|lodash@4.17.23",
       "author": "John-David Dalton",
       "description": "Lodash modular utilities.",
       "licenses": [
@@ -2229,7 +2229,7 @@
       "name": "spec",
       "group": "@standard-schema",
       "version": "1.1.0",
-      "bom-ref": "lasearch@0.5.0|@standard-schema/spec@1.1.0",
+      "bom-ref": "lasearch@0.5.1|@standard-schema/spec@1.1.0",
       "author": "Colin McDonnell",
       "description": "A family of specs for interoperable TypeScript",
       "licenses": [
@@ -2281,7 +2281,7 @@
       "name": "acorn-typescript",
       "group": "@sveltejs",
       "version": "1.0.9",
-      "bom-ref": "lasearch@0.5.0|@sveltejs/acorn-typescript@1.0.9",
+      "bom-ref": "lasearch@0.5.1|@sveltejs/acorn-typescript@1.0.9",
       "author": "tyrealhu and the Svelte team",
       "description": "Acorn plugin that parses TypeScript",
       "licenses": [
@@ -2333,7 +2333,7 @@
       "name": "cookie",
       "group": "@types",
       "version": "0.6.0",
-      "bom-ref": "lasearch@0.5.0|@types/cookie@0.6.0",
+      "bom-ref": "lasearch@0.5.1|@types/cookie@0.6.0",
       "description": "TypeScript definitions for cookie",
       "licenses": [
         {
@@ -2383,7 +2383,7 @@
       "type": "library",
       "name": "acorn",
       "version": "8.15.0",
-      "bom-ref": "lasearch@0.5.0|acorn@8.15.0",
+      "bom-ref": "lasearch@0.5.1|acorn@8.15.0",
       "description": "ECMAScript parser",
       "licenses": [
         {
@@ -2433,7 +2433,7 @@
       "type": "library",
       "name": "cookie",
       "version": "0.7.2",
-      "bom-ref": "lasearch@0.5.0|cookie@0.7.2",
+      "bom-ref": "lasearch@0.5.1|cookie@0.7.2",
       "author": "Roman Shtylman",
       "description": "HTTP server cookie parsing and serialization",
       "licenses": [
@@ -2484,7 +2484,7 @@
       "type": "library",
       "name": "devalue",
       "version": "5.6.4",
-      "bom-ref": "lasearch@0.5.0|devalue@5.6.4",
+      "bom-ref": "lasearch@0.5.1|devalue@5.6.4",
       "description": "Gets the job done when JSON.stringify can't",
       "licenses": [
         {
@@ -2534,7 +2534,7 @@
       "type": "library",
       "name": "esm-env",
       "version": "1.2.2",
-      "bom-ref": "lasearch@0.5.0|esm-env@1.2.2",
+      "bom-ref": "lasearch@0.5.1|esm-env@1.2.2",
       "author": "Ben McCann",
       "licenses": [
         {
@@ -2584,7 +2584,7 @@
       "type": "library",
       "name": "kleur",
       "version": "4.1.5",
-      "bom-ref": "lasearch@0.5.0|kleur@4.1.5",
+      "bom-ref": "lasearch@0.5.1|kleur@4.1.5",
       "author": "Luke Edwards",
       "description": "The fastest Node.js library for formatting terminal text with ANSI colors~!",
       "licenses": [
@@ -2635,7 +2635,7 @@
       "type": "library",
       "name": "magic-string",
       "version": "0.30.21",
-      "bom-ref": "lasearch@0.5.0|magic-string@0.30.21",
+      "bom-ref": "lasearch@0.5.1|magic-string@0.30.21",
       "author": "Rich Harris",
       "description": "Modify strings, generate sourcemaps",
       "licenses": [
@@ -2686,7 +2686,7 @@
       "type": "library",
       "name": "mrmime",
       "version": "2.0.1",
-      "bom-ref": "lasearch@0.5.0|mrmime@2.0.1",
+      "bom-ref": "lasearch@0.5.1|mrmime@2.0.1",
       "author": "Luke Edwards",
       "description": "A tiny (2.8kB) and fast utility for getting a MIME type from an extension or filename",
       "licenses": [
@@ -2737,7 +2737,7 @@
       "type": "library",
       "name": "set-cookie-parser",
       "version": "3.0.1",
-      "bom-ref": "lasearch@0.5.0|set-cookie-parser@3.0.1",
+      "bom-ref": "lasearch@0.5.1|set-cookie-parser@3.0.1",
       "author": "Nathan Friedly",
       "description": "Parses set-cookie headers into objects",
       "licenses": [
@@ -2788,7 +2788,7 @@
       "type": "library",
       "name": "sirv",
       "version": "3.0.2",
-      "bom-ref": "lasearch@0.5.0|sirv@3.0.2",
+      "bom-ref": "lasearch@0.5.1|sirv@3.0.2",
       "author": "Luke Edwards",
       "description": "The optimized & lightweight middleware for serving requests to static assets",
       "licenses": [
@@ -2840,7 +2840,7 @@
       "name": "vite-plugin-svelte-inspector",
       "group": "@sveltejs",
       "version": "5.0.2",
-      "bom-ref": "lasearch@0.5.0|@sveltejs/vite-plugin-svelte-inspector@5.0.2",
+      "bom-ref": "lasearch@0.5.1|@sveltejs/vite-plugin-svelte-inspector@5.0.2",
       "author": "dominikg",
       "licenses": [
         {
@@ -2890,7 +2890,7 @@
       "type": "library",
       "name": "deepmerge",
       "version": "4.3.1",
-      "bom-ref": "lasearch@0.5.0|deepmerge@4.3.1",
+      "bom-ref": "lasearch@0.5.1|deepmerge@4.3.1",
       "description": "A library for deep (recursive) merging of Javascript objects",
       "licenses": [
         {
@@ -2940,7 +2940,7 @@
       "type": "library",
       "name": "obug",
       "version": "2.1.1",
-      "bom-ref": "lasearch@0.5.0|obug@2.1.1",
+      "bom-ref": "lasearch@0.5.1|obug@2.1.1",
       "author": "Kevin Deng",
       "description": "A lightweight JavaScript debugging utility, forked from debug, featuring TypeScript and ESM support.",
       "licenses": [
@@ -2991,7 +2991,7 @@
       "type": "library",
       "name": "vitefu",
       "version": "1.1.1",
-      "bom-ref": "lasearch@0.5.0|vitefu@1.1.1",
+      "bom-ref": "lasearch@0.5.1|vitefu@1.1.1",
       "description": "Utilities for building frameworks with Vite",
       "licenses": [
         {
@@ -3042,7 +3042,7 @@
       "name": "node",
       "group": "@tailwindcss",
       "version": "4.1.18",
-      "bom-ref": "lasearch@0.5.0|@tailwindcss/node@4.1.18",
+      "bom-ref": "lasearch@0.5.1|@tailwindcss/node@4.1.18",
       "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
       "licenses": [
         {
@@ -3093,7 +3093,7 @@
       "name": "oxide",
       "group": "@tailwindcss",
       "version": "4.1.18",
-      "bom-ref": "lasearch@0.5.0|@tailwindcss/oxide@4.1.18",
+      "bom-ref": "lasearch@0.5.1|@tailwindcss/oxide@4.1.18",
       "licenses": [
         {
           "license": {
@@ -3143,7 +3143,7 @@
       "name": "cli-darwin-arm64",
       "group": "@tauri-apps",
       "version": "2.10.0",
-      "bom-ref": "lasearch@0.5.0|@tauri-apps/cli-darwin-arm64@2.10.0",
+      "bom-ref": "lasearch@0.5.1|@tauri-apps/cli-darwin-arm64@2.10.0",
       "description": "Command line interface for building Tauri apps",
       "scope": "optional",
       "licenses": [
@@ -3197,7 +3197,7 @@
       "name": "trusted-types",
       "group": "@types",
       "version": "2.0.7",
-      "bom-ref": "lasearch@0.5.0|@types/trusted-types@2.0.7",
+      "bom-ref": "lasearch@0.5.1|@types/trusted-types@2.0.7",
       "description": "TypeScript definitions for trusted-types",
       "licenses": [
         {
@@ -3248,7 +3248,7 @@
       "name": "core",
       "group": "@floating-ui",
       "version": "1.7.4",
-      "bom-ref": "lasearch@0.5.0|@floating-ui/core@1.7.4",
+      "bom-ref": "lasearch@0.5.1|@floating-ui/core@1.7.4",
       "author": "atomiks",
       "description": "Positioning library for floating elements: tooltips, popovers, dropdowns, and more",
       "licenses": [
@@ -3304,7 +3304,7 @@
       "name": "dom",
       "group": "@floating-ui",
       "version": "1.7.5",
-      "bom-ref": "lasearch@0.5.0|@floating-ui/dom@1.7.5",
+      "bom-ref": "lasearch@0.5.1|@floating-ui/dom@1.7.5",
       "author": "atomiks",
       "description": "Floating UI for the web",
       "licenses": [
@@ -3359,7 +3359,7 @@
       "type": "library",
       "name": "runed",
       "version": "0.35.1",
-      "bom-ref": "lasearch@0.5.0|runed@0.35.1",
+      "bom-ref": "lasearch@0.5.1|runed@0.35.1",
       "licenses": [
         {
           "license": {
@@ -3412,7 +3412,7 @@
       "type": "library",
       "name": "svelte-toolbelt",
       "version": "0.10.6",
-      "bom-ref": "lasearch@0.5.0|svelte-toolbelt@0.10.6",
+      "bom-ref": "lasearch@0.5.1|svelte-toolbelt@0.10.6",
       "purl": "pkg:npm/svelte-toolbelt@0.10.6",
       "externalReferences": [
         {
@@ -3442,7 +3442,7 @@
       "type": "library",
       "name": "tabbable",
       "version": "6.4.0",
-      "bom-ref": "lasearch@0.5.0|tabbable@6.4.0",
+      "bom-ref": "lasearch@0.5.1|tabbable@6.4.0",
       "author": "David Clark",
       "description": "Returns an array of all tabbable DOM nodes within a containing node.",
       "licenses": [
@@ -3498,7 +3498,7 @@
       "name": "xmldom",
       "group": "@xmldom",
       "version": "0.8.11",
-      "bom-ref": "lasearch@0.5.0|@xmldom/xmldom@0.8.11",
+      "bom-ref": "lasearch@0.5.1|@xmldom/xmldom@0.8.11",
       "description": "A pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module.",
       "licenses": [
         {
@@ -3548,7 +3548,7 @@
       "type": "library",
       "name": "argparse",
       "version": "1.0.10",
-      "bom-ref": "lasearch@0.5.0|argparse@1.0.10",
+      "bom-ref": "lasearch@0.5.1|argparse@1.0.10",
       "description": "Very powerful CLI arguments parser. Native port of argparse - python's options parsing library",
       "licenses": [
         {
@@ -3598,7 +3598,7 @@
       "type": "library",
       "name": "base64-js",
       "version": "1.5.1",
-      "bom-ref": "lasearch@0.5.0|base64-js@1.5.1",
+      "bom-ref": "lasearch@0.5.1|base64-js@1.5.1",
       "author": "T. Jameson Little",
       "description": "Base64 encoding/decoding in pure JS",
       "licenses": [
@@ -3649,7 +3649,7 @@
       "type": "library",
       "name": "bluebird",
       "version": "3.4.7",
-      "bom-ref": "lasearch@0.5.0|bluebird@3.4.7",
+      "bom-ref": "lasearch@0.5.1|bluebird@3.4.7",
       "author": "Petka Antonov",
       "description": "Full featured Promises/A+ implementation with exceptionally good performance",
       "licenses": [
@@ -3700,7 +3700,7 @@
       "type": "library",
       "name": "dingbat-to-unicode",
       "version": "1.0.1",
-      "bom-ref": "lasearch@0.5.0|dingbat-to-unicode@1.0.1",
+      "bom-ref": "lasearch@0.5.1|dingbat-to-unicode@1.0.1",
       "author": "Michael Williamson",
       "description": "Mapping from Dingbat fonts, such as Symbol, Webdings and Wingdings, to Unicode code points",
       "licenses": [
@@ -3751,7 +3751,7 @@
       "type": "library",
       "name": "lop",
       "version": "0.4.2",
-      "bom-ref": "lasearch@0.5.0|lop@0.4.2",
+      "bom-ref": "lasearch@0.5.1|lop@0.4.2",
       "author": "Michael Williamson",
       "description": "Create parsers using parser combinators with helpful error messages",
       "licenses": [
@@ -3802,7 +3802,7 @@
       "type": "library",
       "name": "path-is-absolute",
       "version": "1.0.1",
-      "bom-ref": "lasearch@0.5.0|path-is-absolute@1.0.1",
+      "bom-ref": "lasearch@0.5.1|path-is-absolute@1.0.1",
       "author": "Sindre Sorhus",
       "description": "Node.js 0.12 path.isAbsolute() ponyfill",
       "licenses": [
@@ -3853,7 +3853,7 @@
       "type": "library",
       "name": "underscore",
       "version": "1.13.8",
-      "bom-ref": "lasearch@0.5.0|underscore@1.13.8",
+      "bom-ref": "lasearch@0.5.1|underscore@1.13.8",
       "author": "Jeremy Ashkenas",
       "description": "JavaScript's functional programming helper library.",
       "licenses": [
@@ -3904,7 +3904,7 @@
       "type": "library",
       "name": "xmlbuilder",
       "version": "10.1.1",
-      "bom-ref": "lasearch@0.5.0|xmlbuilder@10.1.1",
+      "bom-ref": "lasearch@0.5.1|xmlbuilder@10.1.1",
       "author": "Ozgur Ozcitak",
       "description": "An XML builder for node.js",
       "licenses": [
@@ -3955,7 +3955,7 @@
       "type": "library",
       "name": "commander",
       "version": "14.0.3",
-      "bom-ref": "lasearch@0.5.0|commander@14.0.3",
+      "bom-ref": "lasearch@0.5.1|commander@14.0.3",
       "author": "TJ Holowaychuk",
       "description": "the complete solution for node.js command-line programs",
       "licenses": [
@@ -4006,7 +4006,7 @@
       "type": "library",
       "name": "node-fetch-native",
       "version": "1.6.7",
-      "bom-ref": "lasearch@0.5.0|node-fetch-native@1.6.7",
+      "bom-ref": "lasearch@0.5.1|node-fetch-native@1.6.7",
       "description": "better fetch for Node.js. Works on any JavaScript runtime!",
       "licenses": [
         {
@@ -4056,7 +4056,7 @@
       "type": "library",
       "name": "postcss",
       "version": "8.5.6",
-      "bom-ref": "lasearch@0.5.0|postcss@8.5.6",
+      "bom-ref": "lasearch@0.5.1|postcss@8.5.6",
       "author": "Andrey Sitnik",
       "description": "Tool for transforming styles with JS plugins",
       "licenses": [
@@ -4108,7 +4108,7 @@
       "name": "trace-mapping",
       "group": "@jridgewell",
       "version": "0.3.31",
-      "bom-ref": "lasearch@0.5.0|@jridgewell/trace-mapping@0.3.31",
+      "bom-ref": "lasearch@0.5.1|@jridgewell/trace-mapping@0.3.31",
       "author": "Justin Ridgewell",
       "description": "Trace the original position through a source map",
       "licenses": [
@@ -4159,7 +4159,7 @@
       "type": "library",
       "name": "chokidar",
       "version": "4.0.3",
-      "bom-ref": "lasearch@0.5.0|chokidar@4.0.3",
+      "bom-ref": "lasearch@0.5.1|chokidar@4.0.3",
       "author": "Paul Miller",
       "description": "Minimal and efficient cross-platform file watching library",
       "licenses": [
@@ -4214,7 +4214,7 @@
       "type": "library",
       "name": "fdir",
       "version": "6.5.0",
-      "bom-ref": "lasearch@0.5.0|fdir@6.5.0",
+      "bom-ref": "lasearch@0.5.1|fdir@6.5.0",
       "author": "thecodrr",
       "description": "The fastest directory crawler & globbing alternative to glob, fast-glob, & tiny-glob. Crawls 1m files in < 1s",
       "licenses": [
@@ -4265,7 +4265,7 @@
       "type": "library",
       "name": "picocolors",
       "version": "1.1.1",
-      "bom-ref": "lasearch@0.5.0|picocolors@1.1.1",
+      "bom-ref": "lasearch@0.5.1|picocolors@1.1.1",
       "author": "Alexey Raspopov",
       "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors",
       "licenses": [
@@ -4316,7 +4316,7 @@
       "type": "library",
       "name": "sade",
       "version": "1.8.1",
-      "bom-ref": "lasearch@0.5.0|sade@1.8.1",
+      "bom-ref": "lasearch@0.5.1|sade@1.8.1",
       "author": "Luke Edwards",
       "description": "Smooth (CLI) operator 🎶",
       "licenses": [
@@ -4372,7 +4372,7 @@
       "name": "remapping",
       "group": "@jridgewell",
       "version": "2.3.5",
-      "bom-ref": "lasearch@0.5.0|@jridgewell/remapping@2.3.5",
+      "bom-ref": "lasearch@0.5.1|@jridgewell/remapping@2.3.5",
       "author": "Justin Ridgewell",
       "description": "Remap sequential sourcemaps through transformations to point at the original source code",
       "licenses": [
@@ -4424,7 +4424,7 @@
       "name": "sourcemap-codec",
       "group": "@jridgewell",
       "version": "1.5.5",
-      "bom-ref": "lasearch@0.5.0|@jridgewell/sourcemap-codec@1.5.5",
+      "bom-ref": "lasearch@0.5.1|@jridgewell/sourcemap-codec@1.5.5",
       "author": "Justin Ridgewell",
       "description": "Encode/decode sourcemap mappings",
       "licenses": [
@@ -4476,7 +4476,7 @@
       "name": "estree",
       "group": "@types",
       "version": "1.0.8",
-      "bom-ref": "lasearch@0.5.0|@types/estree@1.0.8",
+      "bom-ref": "lasearch@0.5.1|@types/estree@1.0.8",
       "description": "TypeScript definitions for estree",
       "licenses": [
         {
@@ -4526,7 +4526,7 @@
       "type": "library",
       "name": "aria-query",
       "version": "5.3.1",
-      "bom-ref": "lasearch@0.5.0|aria-query@5.3.1",
+      "bom-ref": "lasearch@0.5.1|aria-query@5.3.1",
       "author": "Jesse Beach",
       "description": "Programmatic access to the ARIA specification",
       "licenses": [
@@ -4577,7 +4577,7 @@
       "type": "library",
       "name": "axobject-query",
       "version": "4.1.0",
-      "bom-ref": "lasearch@0.5.0|axobject-query@4.1.0",
+      "bom-ref": "lasearch@0.5.1|axobject-query@4.1.0",
       "author": "Jesse Beach",
       "description": "Programmatic access to information about the AXObject Model",
       "licenses": [
@@ -4628,7 +4628,7 @@
       "type": "library",
       "name": "esrap",
       "version": "2.2.3",
-      "bom-ref": "lasearch@0.5.0|esrap@2.2.3",
+      "bom-ref": "lasearch@0.5.1|esrap@2.2.3",
       "description": "Parse in reverse",
       "licenses": [
         {
@@ -4678,7 +4678,7 @@
       "type": "library",
       "name": "is-reference",
       "version": "3.0.3",
-      "bom-ref": "lasearch@0.5.0|is-reference@3.0.3",
+      "bom-ref": "lasearch@0.5.1|is-reference@3.0.3",
       "author": "Rich Harris",
       "description": "Determine whether an AST node is a reference",
       "licenses": [
@@ -4729,7 +4729,7 @@
       "type": "library",
       "name": "locate-character",
       "version": "3.0.0",
-      "bom-ref": "lasearch@0.5.0|locate-character@3.0.0",
+      "bom-ref": "lasearch@0.5.1|locate-character@3.0.0",
       "author": "Rich Harris",
       "description": "Get the line and column number of a specific character in a string",
       "licenses": [
@@ -4780,7 +4780,7 @@
       "type": "library",
       "name": "zimmerframe",
       "version": "1.1.4",
-      "bom-ref": "lasearch@0.5.0|zimmerframe@1.1.4",
+      "bom-ref": "lasearch@0.5.1|zimmerframe@1.1.4",
       "description": "A tool for walking ASTs",
       "licenses": [
         {
@@ -4830,7 +4830,7 @@
       "type": "library",
       "name": "esbuild",
       "version": "0.27.3",
-      "bom-ref": "lasearch@0.5.0|esbuild@0.27.3",
+      "bom-ref": "lasearch@0.5.1|esbuild@0.27.3",
       "description": "An extremely fast JavaScript and CSS bundler and minifier.",
       "licenses": [
         {
@@ -4880,7 +4880,7 @@
       "type": "library",
       "name": "fsevents",
       "version": "2.3.3",
-      "bom-ref": "lasearch@0.5.0|fsevents@2.3.3",
+      "bom-ref": "lasearch@0.5.1|fsevents@2.3.3",
       "description": "Native Access to MacOS FSEvents",
       "scope": "optional",
       "licenses": [
@@ -4931,7 +4931,7 @@
       "type": "library",
       "name": "jiti",
       "version": "2.6.1",
-      "bom-ref": "lasearch@0.5.0|jiti@2.6.1",
+      "bom-ref": "lasearch@0.5.1|jiti@2.6.1",
       "description": "Runtime typescript and ESM support for Node.js",
       "licenses": [
         {
@@ -4981,7 +4981,7 @@
       "type": "library",
       "name": "lightningcss",
       "version": "1.30.2",
-      "bom-ref": "lasearch@0.5.0|lightningcss@1.30.2",
+      "bom-ref": "lasearch@0.5.1|lightningcss@1.30.2",
       "description": "A CSS parser, transformer, and minifier written in Rust",
       "licenses": [
         {
@@ -5031,7 +5031,7 @@
       "type": "library",
       "name": "picomatch",
       "version": "4.0.3",
-      "bom-ref": "lasearch@0.5.0|picomatch@4.0.3",
+      "bom-ref": "lasearch@0.5.1|picomatch@4.0.3",
       "author": "Jon Schlinkert",
       "description": "Blazing fast and accurate glob matcher written in JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.",
       "licenses": [
@@ -5082,7 +5082,7 @@
       "type": "library",
       "name": "rollup",
       "version": "4.59.0",
-      "bom-ref": "lasearch@0.5.0|rollup@4.59.0",
+      "bom-ref": "lasearch@0.5.1|rollup@4.59.0",
       "author": "Rich Harris",
       "description": "Next-generation ES module bundler",
       "licenses": [
@@ -5133,7 +5133,7 @@
       "type": "library",
       "name": "tinyglobby",
       "version": "0.2.15",
-      "bom-ref": "lasearch@0.5.0|tinyglobby@0.2.15",
+      "bom-ref": "lasearch@0.5.1|tinyglobby@0.2.15",
       "author": "Superchupu",
       "description": "A fast and minimal alternative to globby and fast-glob",
       "licenses": [
@@ -5184,7 +5184,7 @@
       "type": "library",
       "name": "tslib",
       "version": "2.8.1",
-      "bom-ref": "lasearch@0.5.0|tslib@2.8.1",
+      "bom-ref": "lasearch@0.5.1|tslib@2.8.1",
       "author": "Microsoft Corp.",
       "description": "Runtime library for TypeScript helper functions",
       "licenses": [
@@ -5239,7 +5239,7 @@
       "type": "library",
       "name": "call-bind",
       "version": "1.0.8",
-      "bom-ref": "lasearch@0.5.0|call-bind@1.0.8",
+      "bom-ref": "lasearch@0.5.1|call-bind@1.0.8",
       "author": "Jordan Harband",
       "description": "Robustly `.call.bind()` a function",
       "licenses": [
@@ -5290,7 +5290,7 @@
       "type": "library",
       "name": "is-nan",
       "version": "1.3.2",
-      "bom-ref": "lasearch@0.5.0|is-nan@1.3.2",
+      "bom-ref": "lasearch@0.5.1|is-nan@1.3.2",
       "author": "Jordan Harband",
       "description": "ES2015-compliant shim for Number.isNaN - the global isNaN returns false positives.",
       "licenses": [
@@ -5341,7 +5341,7 @@
       "type": "library",
       "name": "object-is",
       "version": "1.1.6",
-      "bom-ref": "lasearch@0.5.0|object-is@1.1.6",
+      "bom-ref": "lasearch@0.5.1|object-is@1.1.6",
       "author": "Jordan Harband",
       "description": "ES2015-compliant shim for Object.is - differentiates between -0 and +0",
       "licenses": [
@@ -5392,7 +5392,7 @@
       "type": "library",
       "name": "object.assign",
       "version": "4.1.7",
-      "bom-ref": "lasearch@0.5.0|object.assign@4.1.7",
+      "bom-ref": "lasearch@0.5.1|object.assign@4.1.7",
       "author": "Jordan Harband",
       "description": "ES6 spec-compliant Object.assign shim. From https://github.com/es-shims/es6-shim",
       "licenses": [
@@ -5443,7 +5443,7 @@
       "type": "library",
       "name": "util",
       "version": "0.12.5",
-      "bom-ref": "lasearch@0.5.0|util@0.12.5",
+      "bom-ref": "lasearch@0.5.1|util@0.12.5",
       "author": "Joyent",
       "description": "Node.js's util module for all engines",
       "licenses": [
@@ -5494,7 +5494,7 @@
       "type": "library",
       "name": "d",
       "version": "1.0.2",
-      "bom-ref": "lasearch@0.5.0|d@1.0.2",
+      "bom-ref": "lasearch@0.5.1|d@1.0.2",
       "author": "Mariusz Nowak",
       "description": "Property descriptor factory",
       "licenses": [
@@ -5545,7 +5545,7 @@
       "type": "library",
       "name": "es5-ext",
       "version": "0.10.64",
-      "bom-ref": "lasearch@0.5.0|es5-ext@0.10.64",
+      "bom-ref": "lasearch@0.5.1|es5-ext@0.10.64",
       "author": "Mariusz Nowak",
       "description": "ECMAScript extensions and shims",
       "licenses": [
@@ -5596,7 +5596,7 @@
       "type": "library",
       "name": "lie",
       "version": "3.3.0",
-      "bom-ref": "lasearch@0.5.0|lie@3.3.0",
+      "bom-ref": "lasearch@0.5.1|lie@3.3.0",
       "description": "A basic but performant promise implementation",
       "licenses": [
         {
@@ -5646,7 +5646,7 @@
       "type": "library",
       "name": "pako",
       "version": "1.0.11",
-      "bom-ref": "lasearch@0.5.0|pako@1.0.11",
+      "bom-ref": "lasearch@0.5.1|pako@1.0.11",
       "description": "zlib port to javascript - fast, modularized, with browser support",
       "licenses": [
         {
@@ -5694,7 +5694,7 @@
       "type": "library",
       "name": "readable-stream",
       "version": "2.3.8",
-      "bom-ref": "lasearch@0.5.0|readable-stream@2.3.8",
+      "bom-ref": "lasearch@0.5.1|readable-stream@2.3.8",
       "description": "Streams3, a user-land copy of the stream library from Node.js",
       "licenses": [
         {
@@ -5744,7 +5744,7 @@
       "type": "library",
       "name": "setimmediate",
       "version": "1.0.5",
-      "bom-ref": "lasearch@0.5.0|setimmediate@1.0.5",
+      "bom-ref": "lasearch@0.5.1|setimmediate@1.0.5",
       "author": "YuzuJS",
       "description": "A shim for the setImmediate efficient script yielding API",
       "licenses": [
@@ -5796,7 +5796,7 @@
       "name": "url",
       "group": "@polka",
       "version": "1.0.0-next.29",
-      "bom-ref": "lasearch@0.5.0|@polka/url@1.0.0-next.29",
+      "bom-ref": "lasearch@0.5.1|@polka/url@1.0.0-next.29",
       "author": "Luke Edwards",
       "description": "Super fast, memoized `req.url` parser",
       "licenses": [
@@ -5847,7 +5847,7 @@
       "type": "library",
       "name": "totalist",
       "version": "3.0.1",
-      "bom-ref": "lasearch@0.5.0|totalist@3.0.1",
+      "bom-ref": "lasearch@0.5.1|totalist@3.0.1",
       "author": "Luke Edwards",
       "description": "A tiny (195B to 220B) utility to recursively list all (total) files in a directory",
       "licenses": [
@@ -5898,7 +5898,7 @@
       "type": "library",
       "name": "enhanced-resolve",
       "version": "5.19.0",
-      "bom-ref": "lasearch@0.5.0|enhanced-resolve@5.19.0",
+      "bom-ref": "lasearch@0.5.1|enhanced-resolve@5.19.0",
       "author": "Tobias Koppers @sokra",
       "description": "Offers a async require.resolve function. It's highly configurable.",
       "licenses": [
@@ -5949,7 +5949,7 @@
       "type": "library",
       "name": "source-map-js",
       "version": "1.2.1",
-      "bom-ref": "lasearch@0.5.0|source-map-js@1.2.1",
+      "bom-ref": "lasearch@0.5.1|source-map-js@1.2.1",
       "author": "Valentin 7rulnik Semirulnik",
       "description": "Generates and consumes source maps",
       "licenses": [
@@ -6001,7 +6001,7 @@
       "name": "oxide-darwin-arm64",
       "group": "@tailwindcss",
       "version": "4.1.18",
-      "bom-ref": "lasearch@0.5.0|@tailwindcss/oxide-darwin-arm64@4.1.18",
+      "bom-ref": "lasearch@0.5.1|@tailwindcss/oxide-darwin-arm64@4.1.18",
       "scope": "optional",
       "licenses": [
         {
@@ -6052,7 +6052,7 @@
       "name": "utils",
       "group": "@floating-ui",
       "version": "0.2.10",
-      "bom-ref": "lasearch@0.5.0|@floating-ui/utils@0.2.10",
+      "bom-ref": "lasearch@0.5.1|@floating-ui/utils@0.2.10",
       "author": "atomiks",
       "description": "Utilities for Floating UI",
       "licenses": [
@@ -6107,7 +6107,7 @@
       "type": "library",
       "name": "dequal",
       "version": "2.0.3",
-      "bom-ref": "lasearch@0.5.0|dequal@2.0.3",
+      "bom-ref": "lasearch@0.5.1|dequal@2.0.3",
       "author": "Luke Edwards",
       "description": "A tiny (304B to 489B) utility for check for deep equality",
       "licenses": [
@@ -6162,7 +6162,7 @@
       "type": "library",
       "name": "lz-string",
       "version": "1.5.0",
-      "bom-ref": "lasearch@0.5.0|lz-string@1.5.0",
+      "bom-ref": "lasearch@0.5.1|lz-string@1.5.0",
       "author": "pieroxy",
       "description": "LZ-based compression algorithm",
       "licenses": [
@@ -6217,7 +6217,7 @@
       "type": "library",
       "name": "style-to-object",
       "version": "1.0.14",
-      "bom-ref": "lasearch@0.5.0|style-to-object@1.0.14",
+      "bom-ref": "lasearch@0.5.1|style-to-object@1.0.14",
       "author": "Mark",
       "description": "Parse CSS inline style to JavaScript object.",
       "licenses": [
@@ -6272,7 +6272,7 @@
       "type": "library",
       "name": "sprintf-js",
       "version": "1.0.3",
-      "bom-ref": "lasearch@0.5.0|sprintf-js@1.0.3",
+      "bom-ref": "lasearch@0.5.1|sprintf-js@1.0.3",
       "author": "Alexandru Marasteanu",
       "description": "JavaScript sprintf implementation",
       "licenses": [
@@ -6323,7 +6323,7 @@
       "type": "library",
       "name": "duck",
       "version": "0.1.12",
-      "bom-ref": "lasearch@0.5.0|duck@0.1.12",
+      "bom-ref": "lasearch@0.5.1|duck@0.1.12",
       "author": "Michael Williamson",
       "description": "Rich matchers inspired by Hamcrest. Useful for generating helpful assertion failure messages in tests.",
       "licenses": [
@@ -6374,7 +6374,7 @@
       "type": "library",
       "name": "option",
       "version": "0.2.4",
-      "bom-ref": "lasearch@0.5.0|option@0.2.4",
+      "bom-ref": "lasearch@0.5.1|option@0.2.4",
       "author": "Michael Williamson",
       "description": "The option type, also known as the maybe type, for JavaScript",
       "licenses": [
@@ -6425,7 +6425,7 @@
       "type": "library",
       "name": "nanoid",
       "version": "3.3.11",
-      "bom-ref": "lasearch@0.5.0|nanoid@3.3.11",
+      "bom-ref": "lasearch@0.5.1|nanoid@3.3.11",
       "author": "Andrey Sitnik",
       "description": "A tiny (116 bytes), secure URL-friendly unique string ID generator",
       "licenses": [
@@ -6477,7 +6477,7 @@
       "name": "resolve-uri",
       "group": "@jridgewell",
       "version": "3.1.2",
-      "bom-ref": "lasearch@0.5.0|@jridgewell/resolve-uri@3.1.2",
+      "bom-ref": "lasearch@0.5.1|@jridgewell/resolve-uri@3.1.2",
       "author": "Justin Ridgewell",
       "description": "Resolve a URI relative to an optional base URI",
       "licenses": [
@@ -6528,7 +6528,7 @@
       "type": "library",
       "name": "readdirp",
       "version": "4.1.2",
-      "bom-ref": "lasearch@0.5.0|readdirp@4.1.2",
+      "bom-ref": "lasearch@0.5.1|readdirp@4.1.2",
       "author": "Thorsten Lorenz",
       "description": "Recursive version of fs.readdir with small RAM & CPU footprint.",
       "licenses": [
@@ -6583,7 +6583,7 @@
       "type": "library",
       "name": "mri",
       "version": "1.2.0",
-      "bom-ref": "lasearch@0.5.0|mri@1.2.0",
+      "bom-ref": "lasearch@0.5.1|mri@1.2.0",
       "author": "Luke Edwards",
       "description": "Quickly scan for CLI flags and arguments",
       "licenses": [
@@ -6639,7 +6639,7 @@
       "name": "gen-mapping",
       "group": "@jridgewell",
       "version": "0.3.13",
-      "bom-ref": "lasearch@0.5.0|@jridgewell/gen-mapping@0.3.13",
+      "bom-ref": "lasearch@0.5.1|@jridgewell/gen-mapping@0.3.13",
       "author": "Justin Ridgewell",
       "description": "Generate source maps",
       "licenses": [
@@ -6691,7 +6691,7 @@
       "name": "darwin-arm64",
       "group": "@esbuild",
       "version": "0.27.3",
-      "bom-ref": "lasearch@0.5.0|@esbuild/darwin-arm64@0.27.3",
+      "bom-ref": "lasearch@0.5.1|@esbuild/darwin-arm64@0.27.3",
       "description": "The macOS ARM 64-bit binary for esbuild, a JavaScript bundler.",
       "scope": "optional",
       "licenses": [
@@ -6742,7 +6742,7 @@
       "type": "library",
       "name": "detect-libc",
       "version": "2.1.2",
-      "bom-ref": "lasearch@0.5.0|detect-libc@2.1.2",
+      "bom-ref": "lasearch@0.5.1|detect-libc@2.1.2",
       "author": "Lovell Fuller",
       "description": "Node.js module to detect the C standard library (libc) implementation family and version",
       "licenses": [
@@ -6793,7 +6793,7 @@
       "type": "library",
       "name": "lightningcss-darwin-arm64",
       "version": "1.30.2",
-      "bom-ref": "lasearch@0.5.0|lightningcss-darwin-arm64@1.30.2",
+      "bom-ref": "lasearch@0.5.1|lightningcss-darwin-arm64@1.30.2",
       "description": "A CSS parser, transformer, and minifier written in Rust",
       "scope": "optional",
       "licenses": [
@@ -6845,7 +6845,7 @@
       "name": "rollup-darwin-arm64",
       "group": "@rollup",
       "version": "4.59.0",
-      "bom-ref": "lasearch@0.5.0|@rollup/rollup-darwin-arm64@4.59.0",
+      "bom-ref": "lasearch@0.5.1|@rollup/rollup-darwin-arm64@4.59.0",
       "author": "Lukas Taegert-Atkinson",
       "description": "Native bindings for Rollup",
       "scope": "optional",
@@ -6897,7 +6897,7 @@
       "type": "library",
       "name": "call-bind-apply-helpers",
       "version": "1.0.2",
-      "bom-ref": "lasearch@0.5.0|call-bind-apply-helpers@1.0.2",
+      "bom-ref": "lasearch@0.5.1|call-bind-apply-helpers@1.0.2",
       "author": "Jordan Harband",
       "description": "Helper functions around Function call/apply/bind, for use in `call-bind`",
       "licenses": [
@@ -6948,7 +6948,7 @@
       "type": "library",
       "name": "es-define-property",
       "version": "1.0.1",
-      "bom-ref": "lasearch@0.5.0|es-define-property@1.0.1",
+      "bom-ref": "lasearch@0.5.1|es-define-property@1.0.1",
       "author": "Jordan Harband",
       "description": "`Object.defineProperty`, but not IE 8's broken one.",
       "licenses": [
@@ -6999,7 +6999,7 @@
       "type": "library",
       "name": "get-intrinsic",
       "version": "1.3.0",
-      "bom-ref": "lasearch@0.5.0|get-intrinsic@1.3.0",
+      "bom-ref": "lasearch@0.5.1|get-intrinsic@1.3.0",
       "author": "Jordan Harband",
       "description": "Get and robustly cache all JS language-level intrinsics at first require time",
       "licenses": [
@@ -7050,7 +7050,7 @@
       "type": "library",
       "name": "set-function-length",
       "version": "1.2.2",
-      "bom-ref": "lasearch@0.5.0|set-function-length@1.2.2",
+      "bom-ref": "lasearch@0.5.1|set-function-length@1.2.2",
       "author": "Jordan Harband",
       "description": "Set a function's length property",
       "licenses": [
@@ -7101,7 +7101,7 @@
       "type": "library",
       "name": "define-properties",
       "version": "1.2.1",
-      "bom-ref": "lasearch@0.5.0|define-properties@1.2.1",
+      "bom-ref": "lasearch@0.5.1|define-properties@1.2.1",
       "author": "Jordan Harband",
       "description": "Define multiple non-enumerable properties at once. Uses `Object.defineProperty` when available; falls back to standard assignment in older engines.",
       "licenses": [
@@ -7152,7 +7152,7 @@
       "type": "library",
       "name": "call-bound",
       "version": "1.0.4",
-      "bom-ref": "lasearch@0.5.0|call-bound@1.0.4",
+      "bom-ref": "lasearch@0.5.1|call-bound@1.0.4",
       "author": "Jordan Harband",
       "description": "Robust call-bound JavaScript intrinsics, using `call-bind` and `get-intrinsic`.",
       "licenses": [
@@ -7203,7 +7203,7 @@
       "type": "library",
       "name": "es-object-atoms",
       "version": "1.1.1",
-      "bom-ref": "lasearch@0.5.0|es-object-atoms@1.1.1",
+      "bom-ref": "lasearch@0.5.1|es-object-atoms@1.1.1",
       "author": "Jordan Harband",
       "description": "ES Object-related atoms: Object, ToObject, RequireObjectCoercible",
       "licenses": [
@@ -7254,7 +7254,7 @@
       "type": "library",
       "name": "has-symbols",
       "version": "1.1.0",
-      "bom-ref": "lasearch@0.5.0|has-symbols@1.1.0",
+      "bom-ref": "lasearch@0.5.1|has-symbols@1.1.0",
       "author": "Jordan Harband",
       "description": "Determine if the JS environment has Symbol support. Supports spec, or shams.",
       "licenses": [
@@ -7305,7 +7305,7 @@
       "type": "library",
       "name": "object-keys",
       "version": "1.1.1",
-      "bom-ref": "lasearch@0.5.0|object-keys@1.1.1",
+      "bom-ref": "lasearch@0.5.1|object-keys@1.1.1",
       "author": "Jordan Harband",
       "description": "An Object.keys replacement, in case Object.keys is not available. From https://github.com/es-shims/es5-shim",
       "licenses": [
@@ -7356,7 +7356,7 @@
       "type": "library",
       "name": "inherits",
       "version": "2.0.4",
-      "bom-ref": "lasearch@0.5.0|inherits@2.0.4",
+      "bom-ref": "lasearch@0.5.1|inherits@2.0.4",
       "description": "Browser-friendly inheritance fully compatible with standard node.js inherits()",
       "licenses": [
         {
@@ -7406,7 +7406,7 @@
       "type": "library",
       "name": "is-arguments",
       "version": "1.2.0",
-      "bom-ref": "lasearch@0.5.0|is-arguments@1.2.0",
+      "bom-ref": "lasearch@0.5.1|is-arguments@1.2.0",
       "author": "Jordan Harband",
       "description": "Is this an arguments object? It's a harder question than you think.",
       "licenses": [
@@ -7457,7 +7457,7 @@
       "type": "library",
       "name": "is-generator-function",
       "version": "1.1.2",
-      "bom-ref": "lasearch@0.5.0|is-generator-function@1.1.2",
+      "bom-ref": "lasearch@0.5.1|is-generator-function@1.1.2",
       "author": "Jordan Harband",
       "description": "Determine if a function is a native generator function.",
       "licenses": [
@@ -7508,7 +7508,7 @@
       "type": "library",
       "name": "is-typed-array",
       "version": "1.1.15",
-      "bom-ref": "lasearch@0.5.0|is-typed-array@1.1.15",
+      "bom-ref": "lasearch@0.5.1|is-typed-array@1.1.15",
       "author": "Jordan Harband",
       "description": "Is this value a JS Typed Array? This module works cross-realm/iframe, does not depend on `instanceof` or mutable properties, and despite ES6 Symbol.toStringTag.",
       "licenses": [
@@ -7559,7 +7559,7 @@
       "type": "library",
       "name": "which-typed-array",
       "version": "1.1.20",
-      "bom-ref": "lasearch@0.5.0|which-typed-array@1.1.20",
+      "bom-ref": "lasearch@0.5.1|which-typed-array@1.1.20",
       "author": "Jordan Harband",
       "description": "Which kind of Typed Array is this JavaScript value? Works cross-realm, without `instanceof`, and despite Symbol.toStringTag.",
       "licenses": [
@@ -7610,7 +7610,7 @@
       "type": "library",
       "name": "type",
       "version": "2.7.3",
-      "bom-ref": "lasearch@0.5.0|type@2.7.3",
+      "bom-ref": "lasearch@0.5.1|type@2.7.3",
       "author": "Mariusz Nowak",
       "description": "Runtime validation and processing of JavaScript types",
       "licenses": [
@@ -7661,7 +7661,7 @@
       "type": "library",
       "name": "es6-iterator",
       "version": "2.0.3",
-      "bom-ref": "lasearch@0.5.0|es6-iterator@2.0.3",
+      "bom-ref": "lasearch@0.5.1|es6-iterator@2.0.3",
       "author": "Mariusz Nowak",
       "description": "Iterator abstraction based on ES6 specification",
       "licenses": [
@@ -7712,7 +7712,7 @@
       "type": "library",
       "name": "es6-symbol",
       "version": "3.1.4",
-      "bom-ref": "lasearch@0.5.0|es6-symbol@3.1.4",
+      "bom-ref": "lasearch@0.5.1|es6-symbol@3.1.4",
       "author": "Mariusz Nowak",
       "description": "ECMAScript 6 Symbol polyfill",
       "licenses": [
@@ -7763,7 +7763,7 @@
       "type": "library",
       "name": "esniff",
       "version": "2.0.1",
-      "bom-ref": "lasearch@0.5.0|esniff@2.0.1",
+      "bom-ref": "lasearch@0.5.1|esniff@2.0.1",
       "author": "Mariusz Nowak",
       "description": "Low footprint ECMAScript source code parser",
       "licenses": [
@@ -7814,7 +7814,7 @@
       "type": "library",
       "name": "next-tick",
       "version": "1.1.0",
-      "bom-ref": "lasearch@0.5.0|next-tick@1.1.0",
+      "bom-ref": "lasearch@0.5.1|next-tick@1.1.0",
       "author": "Mariusz Nowak",
       "description": "Environment agnostic nextTick polyfill",
       "licenses": [
@@ -7865,7 +7865,7 @@
       "type": "library",
       "name": "immediate",
       "version": "3.0.6",
-      "bom-ref": "lasearch@0.5.0|immediate@3.0.6",
+      "bom-ref": "lasearch@0.5.1|immediate@3.0.6",
       "description": "A cross browser microtask library",
       "licenses": [
         {
@@ -7915,7 +7915,7 @@
       "type": "library",
       "name": "core-util-is",
       "version": "1.0.3",
-      "bom-ref": "lasearch@0.5.0|core-util-is@1.0.3",
+      "bom-ref": "lasearch@0.5.1|core-util-is@1.0.3",
       "author": "Isaac Z. Schlueter",
       "description": "The `util.is*` functions introduced in Node v0.12.",
       "licenses": [
@@ -7966,7 +7966,7 @@
       "type": "library",
       "name": "isarray",
       "version": "1.0.0",
-      "bom-ref": "lasearch@0.5.0|isarray@1.0.0",
+      "bom-ref": "lasearch@0.5.1|isarray@1.0.0",
       "author": "Julian Gruber",
       "description": "Array#isArray for older browsers",
       "licenses": [
@@ -8017,7 +8017,7 @@
       "type": "library",
       "name": "process-nextick-args",
       "version": "2.0.1",
-      "bom-ref": "lasearch@0.5.0|process-nextick-args@2.0.1",
+      "bom-ref": "lasearch@0.5.1|process-nextick-args@2.0.1",
       "description": "process.nextTick but always with args",
       "licenses": [
         {
@@ -8067,7 +8067,7 @@
       "type": "library",
       "name": "safe-buffer",
       "version": "5.1.2",
-      "bom-ref": "lasearch@0.5.0|safe-buffer@5.1.2",
+      "bom-ref": "lasearch@0.5.1|safe-buffer@5.1.2",
       "author": "Feross Aboukhadijeh",
       "description": "Safer Node.js Buffer API",
       "licenses": [
@@ -8118,7 +8118,7 @@
       "type": "library",
       "name": "string_decoder",
       "version": "1.1.1",
-      "bom-ref": "lasearch@0.5.0|string_decoder@1.1.1",
+      "bom-ref": "lasearch@0.5.1|string_decoder@1.1.1",
       "description": "The string_decoder module from Node core",
       "licenses": [
         {
@@ -8168,7 +8168,7 @@
       "type": "library",
       "name": "util-deprecate",
       "version": "1.0.2",
-      "bom-ref": "lasearch@0.5.0|util-deprecate@1.0.2",
+      "bom-ref": "lasearch@0.5.1|util-deprecate@1.0.2",
       "author": "Nathan Rajlich",
       "description": "The Node.js `util.deprecate()` function with browser support",
       "licenses": [
@@ -8219,7 +8219,7 @@
       "type": "library",
       "name": "graceful-fs",
       "version": "4.2.11",
-      "bom-ref": "lasearch@0.5.0|graceful-fs@4.2.11",
+      "bom-ref": "lasearch@0.5.1|graceful-fs@4.2.11",
       "description": "A drop-in replacement for fs, making various improvements.",
       "licenses": [
         {
@@ -8269,7 +8269,7 @@
       "type": "library",
       "name": "tapable",
       "version": "2.3.0",
-      "bom-ref": "lasearch@0.5.0|tapable@2.3.0",
+      "bom-ref": "lasearch@0.5.1|tapable@2.3.0",
       "author": "Tobias Koppers @sokra",
       "description": "Just a little module for plugins.",
       "licenses": [
@@ -8320,7 +8320,7 @@
       "type": "library",
       "name": "inline-style-parser",
       "version": "0.2.7",
-      "bom-ref": "lasearch@0.5.0|inline-style-parser@0.2.7",
+      "bom-ref": "lasearch@0.5.1|inline-style-parser@0.2.7",
       "description": "An inline style parser.",
       "licenses": [
         {
@@ -8374,7 +8374,7 @@
       "type": "library",
       "name": "es-errors",
       "version": "1.3.0",
-      "bom-ref": "lasearch@0.5.0|es-errors@1.3.0",
+      "bom-ref": "lasearch@0.5.1|es-errors@1.3.0",
       "author": "Jordan Harband",
       "description": "A simple cache for a few of the JS Error constructors.",
       "licenses": [
@@ -8425,7 +8425,7 @@
       "type": "library",
       "name": "function-bind",
       "version": "1.1.2",
-      "bom-ref": "lasearch@0.5.0|function-bind@1.1.2",
+      "bom-ref": "lasearch@0.5.1|function-bind@1.1.2",
       "author": "Raynos",
       "description": "Implementation of Function.prototype.bind",
       "licenses": [
@@ -8476,7 +8476,7 @@
       "type": "library",
       "name": "get-proto",
       "version": "1.0.1",
-      "bom-ref": "lasearch@0.5.0|get-proto@1.0.1",
+      "bom-ref": "lasearch@0.5.1|get-proto@1.0.1",
       "author": "Jordan Harband",
       "description": "Robustly get the [[Prototype]] of an object",
       "licenses": [
@@ -8527,7 +8527,7 @@
       "type": "library",
       "name": "gopd",
       "version": "1.2.0",
-      "bom-ref": "lasearch@0.5.0|gopd@1.2.0",
+      "bom-ref": "lasearch@0.5.1|gopd@1.2.0",
       "author": "Jordan Harband",
       "description": "`Object.getOwnPropertyDescriptor`, but accounts for IE's broken implementation.",
       "licenses": [
@@ -8578,7 +8578,7 @@
       "type": "library",
       "name": "hasown",
       "version": "2.0.2",
-      "bom-ref": "lasearch@0.5.0|hasown@2.0.2",
+      "bom-ref": "lasearch@0.5.1|hasown@2.0.2",
       "author": "Jordan Harband",
       "description": "A robust, ES3 compatible, \"has own property\" predicate.",
       "licenses": [
@@ -8629,7 +8629,7 @@
       "type": "library",
       "name": "math-intrinsics",
       "version": "1.1.0",
-      "bom-ref": "lasearch@0.5.0|math-intrinsics@1.1.0",
+      "bom-ref": "lasearch@0.5.1|math-intrinsics@1.1.0",
       "author": "Jordan Harband",
       "description": "ES Math-related intrinsics and helpers, robustly cached.",
       "licenses": [
@@ -8680,7 +8680,7 @@
       "type": "library",
       "name": "define-data-property",
       "version": "1.1.4",
-      "bom-ref": "lasearch@0.5.0|define-data-property@1.1.4",
+      "bom-ref": "lasearch@0.5.1|define-data-property@1.1.4",
       "author": "Jordan Harband",
       "description": "Define a data property on an object. Will fall back to assignment in an engine without descriptors.",
       "licenses": [
@@ -8731,7 +8731,7 @@
       "type": "library",
       "name": "has-property-descriptors",
       "version": "1.0.2",
-      "bom-ref": "lasearch@0.5.0|has-property-descriptors@1.0.2",
+      "bom-ref": "lasearch@0.5.1|has-property-descriptors@1.0.2",
       "author": "Jordan Harband",
       "description": "Does the environment have full property descriptor support? Handles IE 8's broken defineProperty/gOPD.",
       "licenses": [
@@ -8782,7 +8782,7 @@
       "type": "library",
       "name": "has-tostringtag",
       "version": "1.0.2",
-      "bom-ref": "lasearch@0.5.0|has-tostringtag@1.0.2",
+      "bom-ref": "lasearch@0.5.1|has-tostringtag@1.0.2",
       "author": "Jordan Harband",
       "description": "Determine if the JS environment has `Symbol.toStringTag` support. Supports spec, or shams.",
       "licenses": [
@@ -8833,7 +8833,7 @@
       "type": "library",
       "name": "generator-function",
       "version": "2.0.1",
-      "bom-ref": "lasearch@0.5.0|generator-function@2.0.1",
+      "bom-ref": "lasearch@0.5.1|generator-function@2.0.1",
       "author": "Jordan Harbamd",
       "description": "A function that returns the normally hidden `GeneratorFunction` constructor",
       "licenses": [
@@ -8884,7 +8884,7 @@
       "type": "library",
       "name": "safe-regex-test",
       "version": "1.1.0",
-      "bom-ref": "lasearch@0.5.0|safe-regex-test@1.1.0",
+      "bom-ref": "lasearch@0.5.1|safe-regex-test@1.1.0",
       "author": "Jordan Harband",
       "description": "Give a regex, get a robust predicate function that tests it against a string.",
       "licenses": [
@@ -8935,7 +8935,7 @@
       "type": "library",
       "name": "available-typed-arrays",
       "version": "1.0.7",
-      "bom-ref": "lasearch@0.5.0|available-typed-arrays@1.0.7",
+      "bom-ref": "lasearch@0.5.1|available-typed-arrays@1.0.7",
       "author": "Jordan Harband",
       "description": "Returns an array of Typed Array names that are available in the current environment",
       "licenses": [
@@ -8986,7 +8986,7 @@
       "type": "library",
       "name": "for-each",
       "version": "0.3.5",
-      "bom-ref": "lasearch@0.5.0|for-each@0.3.5",
+      "bom-ref": "lasearch@0.5.1|for-each@0.3.5",
       "author": "Raynos",
       "description": "A better forEach",
       "licenses": [
@@ -9037,7 +9037,7 @@
       "type": "library",
       "name": "ext",
       "version": "1.7.0",
-      "bom-ref": "lasearch@0.5.0|ext@1.7.0",
+      "bom-ref": "lasearch@0.5.1|ext@1.7.0",
       "author": "Mariusz Nowak",
       "description": "JavaScript utilities with respect to emerging standard",
       "licenses": [
@@ -9088,7 +9088,7 @@
       "type": "library",
       "name": "dunder-proto",
       "version": "1.0.1",
-      "bom-ref": "lasearch@0.5.0|dunder-proto@1.0.1",
+      "bom-ref": "lasearch@0.5.1|dunder-proto@1.0.1",
       "author": "Jordan Harband",
       "description": "If available, the `Object.prototype.__proto__` accessor and mutator, call-bound",
       "licenses": [
@@ -9139,7 +9139,7 @@
       "type": "library",
       "name": "is-regex",
       "version": "1.2.1",
-      "bom-ref": "lasearch@0.5.0|is-regex@1.2.1",
+      "bom-ref": "lasearch@0.5.1|is-regex@1.2.1",
       "author": "Jordan Harband",
       "description": "Is this value a JS regex? Works cross-realm/iframe, and despite ES6 @@toStringTag",
       "licenses": [
@@ -9190,7 +9190,7 @@
       "type": "library",
       "name": "possible-typed-array-names",
       "version": "1.1.0",
-      "bom-ref": "lasearch@0.5.0|possible-typed-array-names@1.1.0",
+      "bom-ref": "lasearch@0.5.1|possible-typed-array-names@1.1.0",
       "author": "Jordan Harband",
       "description": "A simple list of possible Typed Array names.",
       "licenses": [
@@ -9241,7 +9241,7 @@
       "type": "library",
       "name": "is-callable",
       "version": "1.2.7",
-      "bom-ref": "lasearch@0.5.0|is-callable@1.2.7",
+      "bom-ref": "lasearch@0.5.1|is-callable@1.2.7",
       "author": "Jordan Harband",
       "description": "Is this JS value callable? Works with Functions and GeneratorFunctions, despite ES6 @@toStringTag.",
       "licenses": [
@@ -9291,1047 +9291,1047 @@
   ],
   "dependencies": [
     {
-      "ref": "lasearch@0.5.0",
+      "ref": "lasearch@0.5.1",
       "dependsOn": [
-        "lasearch@0.5.0|@icons-pack/svelte-simple-icons@7.1.0",
-        "lasearch@0.5.0|@internationalized/date@3.11.0",
-        "lasearch@0.5.0|@intity/epub-js@0.3.96",
-        "lasearch@0.5.0|@lucide/svelte@0.554.0",
-        "lasearch@0.5.0|@selemondev/svgl-svelte@2.1.2",
-        "lasearch@0.5.0|@sveltejs/adapter-static@3.0.10",
-        "lasearch@0.5.0|@sveltejs/kit@2.53.4",
-        "lasearch@0.5.0|@sveltejs/vite-plugin-svelte@6.2.4",
-        "lasearch@0.5.0|@tailwindcss/vite@4.1.18",
-        "lasearch@0.5.0|@tauri-apps/api@2.10.1",
-        "lasearch@0.5.0|@tauri-apps/cli@2.10.0",
-        "lasearch@0.5.0|@tauri-apps/plugin-dialog@2.6.0",
-        "lasearch@0.5.0|@tauri-apps/plugin-opener@2.5.3",
-        "lasearch@0.5.0|@tauri-apps/plugin-process@2.3.1",
-        "lasearch@0.5.0|@tauri-apps/plugin-shell@2.3.5",
-        "lasearch@0.5.0|@tauri-apps/plugin-updater@2.10.0",
-        "lasearch@0.5.0|@types/dompurify@3.0.5",
-        "lasearch@0.5.0|bits-ui@2.15.5",
-        "lasearch@0.5.0|clsx@2.1.1",
-        "lasearch@0.5.0|dompurify@3.3.3",
-        "lasearch@0.5.0|lucide-svelte@0.554.0",
-        "lasearch@0.5.0|mammoth@1.11.0",
-        "lasearch@0.5.0|shadcn-svelte@1.1.1",
-        "lasearch@0.5.0|svelte-check@4.3.6",
-        "lasearch@0.5.0|svelte@5.53.7",
-        "lasearch@0.5.0|tailwind-merge@3.4.0",
-        "lasearch@0.5.0|tailwind-variants@3.2.2",
-        "lasearch@0.5.0|tailwindcss@4.1.18",
-        "lasearch@0.5.0|tw-animate-css@1.4.0",
-        "lasearch@0.5.0|typescript@5.9.3",
-        "lasearch@0.5.0|vite@7.3.1",
-        "lasearch@0.5.0|xlsx@0.20.3"
+        "lasearch@0.5.1|@icons-pack/svelte-simple-icons@7.1.0",
+        "lasearch@0.5.1|@internationalized/date@3.11.0",
+        "lasearch@0.5.1|@intity/epub-js@0.3.96",
+        "lasearch@0.5.1|@lucide/svelte@0.554.0",
+        "lasearch@0.5.1|@selemondev/svgl-svelte@2.1.2",
+        "lasearch@0.5.1|@sveltejs/adapter-static@3.0.10",
+        "lasearch@0.5.1|@sveltejs/kit@2.53.4",
+        "lasearch@0.5.1|@sveltejs/vite-plugin-svelte@6.2.4",
+        "lasearch@0.5.1|@tailwindcss/vite@4.1.18",
+        "lasearch@0.5.1|@tauri-apps/api@2.10.1",
+        "lasearch@0.5.1|@tauri-apps/cli@2.10.0",
+        "lasearch@0.5.1|@tauri-apps/plugin-dialog@2.6.0",
+        "lasearch@0.5.1|@tauri-apps/plugin-opener@2.5.3",
+        "lasearch@0.5.1|@tauri-apps/plugin-process@2.3.1",
+        "lasearch@0.5.1|@tauri-apps/plugin-shell@2.3.5",
+        "lasearch@0.5.1|@tauri-apps/plugin-updater@2.10.0",
+        "lasearch@0.5.1|@types/dompurify@3.0.5",
+        "lasearch@0.5.1|bits-ui@2.15.5",
+        "lasearch@0.5.1|clsx@2.1.1",
+        "lasearch@0.5.1|dompurify@3.3.3",
+        "lasearch@0.5.1|lucide-svelte@0.554.0",
+        "lasearch@0.5.1|mammoth@1.11.0",
+        "lasearch@0.5.1|shadcn-svelte@1.1.1",
+        "lasearch@0.5.1|svelte-check@4.3.6",
+        "lasearch@0.5.1|svelte@5.53.7",
+        "lasearch@0.5.1|tailwind-merge@3.4.0",
+        "lasearch@0.5.1|tailwind-variants@3.2.2",
+        "lasearch@0.5.1|tailwindcss@4.1.18",
+        "lasearch@0.5.1|tw-animate-css@1.4.0",
+        "lasearch@0.5.1|typescript@5.9.3",
+        "lasearch@0.5.1|vite@7.3.1",
+        "lasearch@0.5.1|xlsx@0.20.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@icons-pack/svelte-simple-icons@7.1.0",
+      "ref": "lasearch@0.5.1|@icons-pack/svelte-simple-icons@7.1.0",
       "dependsOn": [
-        "lasearch@0.5.0|@sveltejs/kit@2.53.4",
-        "lasearch@0.5.0|svelte@5.53.7"
+        "lasearch@0.5.1|@sveltejs/kit@2.53.4",
+        "lasearch@0.5.1|svelte@5.53.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@internationalized/date@3.11.0",
+      "ref": "lasearch@0.5.1|@internationalized/date@3.11.0",
       "dependsOn": [
-        "lasearch@0.5.0|@swc/helpers@0.5.18"
+        "lasearch@0.5.1|@swc/helpers@0.5.18"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@intity/epub-js@0.3.96",
+      "ref": "lasearch@0.5.1|@intity/epub-js@0.3.96",
       "dependsOn": [
-        "lasearch@0.5.0|assert@2.1.0",
-        "lasearch@0.5.0|core-js@3.48.0",
-        "lasearch@0.5.0|event-emitter@0.3.5",
-        "lasearch@0.5.0|jszip@3.10.1",
-        "lasearch@0.5.0|localforage@1.10.0",
-        "lasearch@0.5.0|lodash@4.17.23",
-        "lasearch@0.5.0|@intity/epub-js@0.3.96|marked@15.0.12"
+        "lasearch@0.5.1|assert@2.1.0",
+        "lasearch@0.5.1|core-js@3.48.0",
+        "lasearch@0.5.1|event-emitter@0.3.5",
+        "lasearch@0.5.1|jszip@3.10.1",
+        "lasearch@0.5.1|localforage@1.10.0",
+        "lasearch@0.5.1|lodash@4.17.23",
+        "lasearch@0.5.1|@intity/epub-js@0.3.96|marked@15.0.12"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@intity/epub-js@0.3.96|marked@15.0.12"
+      "ref": "lasearch@0.5.1|@intity/epub-js@0.3.96|marked@15.0.12"
     },
     {
-      "ref": "lasearch@0.5.0|@lucide/svelte@0.554.0",
+      "ref": "lasearch@0.5.1|@lucide/svelte@0.554.0",
       "dependsOn": [
-        "lasearch@0.5.0|svelte@5.53.7"
+        "lasearch@0.5.1|svelte@5.53.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@selemondev/svgl-svelte@2.1.2",
+      "ref": "lasearch@0.5.1|@selemondev/svgl-svelte@2.1.2",
       "dependsOn": [
-        "lasearch@0.5.0|svelte@5.53.7"
+        "lasearch@0.5.1|svelte@5.53.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@sveltejs/adapter-static@3.0.10",
+      "ref": "lasearch@0.5.1|@sveltejs/adapter-static@3.0.10",
       "dependsOn": [
-        "lasearch@0.5.0|@sveltejs/kit@2.53.4"
+        "lasearch@0.5.1|@sveltejs/kit@2.53.4"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@sveltejs/kit@2.53.4",
+      "ref": "lasearch@0.5.1|@sveltejs/kit@2.53.4",
       "dependsOn": [
-        "lasearch@0.5.0|@standard-schema/spec@1.1.0",
-        "lasearch@0.5.0|@sveltejs/acorn-typescript@1.0.9",
-        "lasearch@0.5.0|@sveltejs/vite-plugin-svelte@6.2.4",
-        "lasearch@0.5.0|@types/cookie@0.6.0",
-        "lasearch@0.5.0|acorn@8.15.0",
-        "lasearch@0.5.0|cookie@0.7.2",
-        "lasearch@0.5.0|devalue@5.6.4",
-        "lasearch@0.5.0|esm-env@1.2.2",
-        "lasearch@0.5.0|kleur@4.1.5",
-        "lasearch@0.5.0|magic-string@0.30.21",
-        "lasearch@0.5.0|mrmime@2.0.1",
-        "lasearch@0.5.0|set-cookie-parser@3.0.1",
-        "lasearch@0.5.0|sirv@3.0.2",
-        "lasearch@0.5.0|svelte@5.53.7",
-        "lasearch@0.5.0|typescript@5.9.3",
-        "lasearch@0.5.0|vite@7.3.1"
+        "lasearch@0.5.1|@standard-schema/spec@1.1.0",
+        "lasearch@0.5.1|@sveltejs/acorn-typescript@1.0.9",
+        "lasearch@0.5.1|@sveltejs/vite-plugin-svelte@6.2.4",
+        "lasearch@0.5.1|@types/cookie@0.6.0",
+        "lasearch@0.5.1|acorn@8.15.0",
+        "lasearch@0.5.1|cookie@0.7.2",
+        "lasearch@0.5.1|devalue@5.6.4",
+        "lasearch@0.5.1|esm-env@1.2.2",
+        "lasearch@0.5.1|kleur@4.1.5",
+        "lasearch@0.5.1|magic-string@0.30.21",
+        "lasearch@0.5.1|mrmime@2.0.1",
+        "lasearch@0.5.1|set-cookie-parser@3.0.1",
+        "lasearch@0.5.1|sirv@3.0.2",
+        "lasearch@0.5.1|svelte@5.53.7",
+        "lasearch@0.5.1|typescript@5.9.3",
+        "lasearch@0.5.1|vite@7.3.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@sveltejs/vite-plugin-svelte@6.2.4",
+      "ref": "lasearch@0.5.1|@sveltejs/vite-plugin-svelte@6.2.4",
       "dependsOn": [
-        "lasearch@0.5.0|@sveltejs/vite-plugin-svelte-inspector@5.0.2",
-        "lasearch@0.5.0|deepmerge@4.3.1",
-        "lasearch@0.5.0|magic-string@0.30.21",
-        "lasearch@0.5.0|obug@2.1.1",
-        "lasearch@0.5.0|svelte@5.53.7",
-        "lasearch@0.5.0|vite@7.3.1",
-        "lasearch@0.5.0|vitefu@1.1.1"
+        "lasearch@0.5.1|@sveltejs/vite-plugin-svelte-inspector@5.0.2",
+        "lasearch@0.5.1|deepmerge@4.3.1",
+        "lasearch@0.5.1|magic-string@0.30.21",
+        "lasearch@0.5.1|obug@2.1.1",
+        "lasearch@0.5.1|svelte@5.53.7",
+        "lasearch@0.5.1|vite@7.3.1",
+        "lasearch@0.5.1|vitefu@1.1.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tailwindcss/vite@4.1.18",
+      "ref": "lasearch@0.5.1|@tailwindcss/vite@4.1.18",
       "dependsOn": [
-        "lasearch@0.5.0|@tailwindcss/node@4.1.18",
-        "lasearch@0.5.0|@tailwindcss/oxide@4.1.18",
-        "lasearch@0.5.0|tailwindcss@4.1.18",
-        "lasearch@0.5.0|vite@7.3.1"
+        "lasearch@0.5.1|@tailwindcss/node@4.1.18",
+        "lasearch@0.5.1|@tailwindcss/oxide@4.1.18",
+        "lasearch@0.5.1|tailwindcss@4.1.18",
+        "lasearch@0.5.1|vite@7.3.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tauri-apps/api@2.10.1"
+      "ref": "lasearch@0.5.1|@tauri-apps/api@2.10.1"
     },
     {
-      "ref": "lasearch@0.5.0|@tauri-apps/cli@2.10.0",
+      "ref": "lasearch@0.5.1|@tauri-apps/cli@2.10.0",
       "dependsOn": [
-        "lasearch@0.5.0|@tauri-apps/cli-darwin-arm64@2.10.0"
+        "lasearch@0.5.1|@tauri-apps/cli-darwin-arm64@2.10.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tauri-apps/plugin-dialog@2.6.0",
+      "ref": "lasearch@0.5.1|@tauri-apps/plugin-dialog@2.6.0",
       "dependsOn": [
-        "lasearch@0.5.0|@tauri-apps/api@2.10.1"
+        "lasearch@0.5.1|@tauri-apps/api@2.10.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tauri-apps/plugin-opener@2.5.3",
+      "ref": "lasearch@0.5.1|@tauri-apps/plugin-opener@2.5.3",
       "dependsOn": [
-        "lasearch@0.5.0|@tauri-apps/api@2.10.1"
+        "lasearch@0.5.1|@tauri-apps/api@2.10.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tauri-apps/plugin-process@2.3.1",
+      "ref": "lasearch@0.5.1|@tauri-apps/plugin-process@2.3.1",
       "dependsOn": [
-        "lasearch@0.5.0|@tauri-apps/api@2.10.1"
+        "lasearch@0.5.1|@tauri-apps/api@2.10.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tauri-apps/plugin-shell@2.3.5",
+      "ref": "lasearch@0.5.1|@tauri-apps/plugin-shell@2.3.5",
       "dependsOn": [
-        "lasearch@0.5.0|@tauri-apps/api@2.10.1"
+        "lasearch@0.5.1|@tauri-apps/api@2.10.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tauri-apps/plugin-updater@2.10.0",
+      "ref": "lasearch@0.5.1|@tauri-apps/plugin-updater@2.10.0",
       "dependsOn": [
-        "lasearch@0.5.0|@tauri-apps/api@2.10.1"
+        "lasearch@0.5.1|@tauri-apps/api@2.10.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@types/dompurify@3.0.5",
+      "ref": "lasearch@0.5.1|@types/dompurify@3.0.5",
       "dependsOn": [
-        "lasearch@0.5.0|@types/trusted-types@2.0.7"
+        "lasearch@0.5.1|@types/trusted-types@2.0.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|bits-ui@2.15.5",
+      "ref": "lasearch@0.5.1|bits-ui@2.15.5",
       "dependsOn": [
-        "lasearch@0.5.0|@floating-ui/core@1.7.4",
-        "lasearch@0.5.0|@floating-ui/dom@1.7.5",
-        "lasearch@0.5.0|@internationalized/date@3.11.0",
-        "lasearch@0.5.0|esm-env@1.2.2",
-        "lasearch@0.5.0|runed@0.35.1",
-        "lasearch@0.5.0|svelte-toolbelt@0.10.6",
-        "lasearch@0.5.0|svelte@5.53.7",
-        "lasearch@0.5.0|tabbable@6.4.0"
+        "lasearch@0.5.1|@floating-ui/core@1.7.4",
+        "lasearch@0.5.1|@floating-ui/dom@1.7.5",
+        "lasearch@0.5.1|@internationalized/date@3.11.0",
+        "lasearch@0.5.1|esm-env@1.2.2",
+        "lasearch@0.5.1|runed@0.35.1",
+        "lasearch@0.5.1|svelte-toolbelt@0.10.6",
+        "lasearch@0.5.1|svelte@5.53.7",
+        "lasearch@0.5.1|tabbable@6.4.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|clsx@2.1.1"
+      "ref": "lasearch@0.5.1|clsx@2.1.1"
     },
     {
-      "ref": "lasearch@0.5.0|dompurify@3.3.3",
+      "ref": "lasearch@0.5.1|dompurify@3.3.3",
       "dependsOn": [
-        "lasearch@0.5.0|@types/trusted-types@2.0.7"
+        "lasearch@0.5.1|@types/trusted-types@2.0.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|lucide-svelte@0.554.0",
+      "ref": "lasearch@0.5.1|lucide-svelte@0.554.0",
       "dependsOn": [
-        "lasearch@0.5.0|svelte@5.53.7"
+        "lasearch@0.5.1|svelte@5.53.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|mammoth@1.11.0",
+      "ref": "lasearch@0.5.1|mammoth@1.11.0",
       "dependsOn": [
-        "lasearch@0.5.0|@xmldom/xmldom@0.8.11",
-        "lasearch@0.5.0|argparse@1.0.10",
-        "lasearch@0.5.0|base64-js@1.5.1",
-        "lasearch@0.5.0|bluebird@3.4.7",
-        "lasearch@0.5.0|dingbat-to-unicode@1.0.1",
-        "lasearch@0.5.0|jszip@3.10.1",
-        "lasearch@0.5.0|lop@0.4.2",
-        "lasearch@0.5.0|path-is-absolute@1.0.1",
-        "lasearch@0.5.0|underscore@1.13.8",
-        "lasearch@0.5.0|xmlbuilder@10.1.1"
+        "lasearch@0.5.1|@xmldom/xmldom@0.8.11",
+        "lasearch@0.5.1|argparse@1.0.10",
+        "lasearch@0.5.1|base64-js@1.5.1",
+        "lasearch@0.5.1|bluebird@3.4.7",
+        "lasearch@0.5.1|dingbat-to-unicode@1.0.1",
+        "lasearch@0.5.1|jszip@3.10.1",
+        "lasearch@0.5.1|lop@0.4.2",
+        "lasearch@0.5.1|path-is-absolute@1.0.1",
+        "lasearch@0.5.1|underscore@1.13.8",
+        "lasearch@0.5.1|xmlbuilder@10.1.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|shadcn-svelte@1.1.1",
+      "ref": "lasearch@0.5.1|shadcn-svelte@1.1.1",
       "dependsOn": [
-        "lasearch@0.5.0|commander@14.0.3",
-        "lasearch@0.5.0|node-fetch-native@1.6.7",
-        "lasearch@0.5.0|postcss@8.5.6"
+        "lasearch@0.5.1|commander@14.0.3",
+        "lasearch@0.5.1|node-fetch-native@1.6.7",
+        "lasearch@0.5.1|postcss@8.5.6"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|svelte-check@4.3.6",
+      "ref": "lasearch@0.5.1|svelte-check@4.3.6",
       "dependsOn": [
-        "lasearch@0.5.0|@jridgewell/trace-mapping@0.3.31",
-        "lasearch@0.5.0|chokidar@4.0.3",
-        "lasearch@0.5.0|fdir@6.5.0",
-        "lasearch@0.5.0|picocolors@1.1.1",
-        "lasearch@0.5.0|sade@1.8.1",
-        "lasearch@0.5.0|svelte@5.53.7",
-        "lasearch@0.5.0|typescript@5.9.3"
+        "lasearch@0.5.1|@jridgewell/trace-mapping@0.3.31",
+        "lasearch@0.5.1|chokidar@4.0.3",
+        "lasearch@0.5.1|fdir@6.5.0",
+        "lasearch@0.5.1|picocolors@1.1.1",
+        "lasearch@0.5.1|sade@1.8.1",
+        "lasearch@0.5.1|svelte@5.53.7",
+        "lasearch@0.5.1|typescript@5.9.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|svelte@5.53.7",
+      "ref": "lasearch@0.5.1|svelte@5.53.7",
       "dependsOn": [
-        "lasearch@0.5.0|@jridgewell/remapping@2.3.5",
-        "lasearch@0.5.0|@jridgewell/sourcemap-codec@1.5.5",
-        "lasearch@0.5.0|@sveltejs/acorn-typescript@1.0.9",
-        "lasearch@0.5.0|@types/estree@1.0.8",
-        "lasearch@0.5.0|@types/trusted-types@2.0.7",
-        "lasearch@0.5.0|acorn@8.15.0",
-        "lasearch@0.5.0|aria-query@5.3.1",
-        "lasearch@0.5.0|axobject-query@4.1.0",
-        "lasearch@0.5.0|clsx@2.1.1",
-        "lasearch@0.5.0|devalue@5.6.4",
-        "lasearch@0.5.0|esm-env@1.2.2",
-        "lasearch@0.5.0|esrap@2.2.3",
-        "lasearch@0.5.0|is-reference@3.0.3",
-        "lasearch@0.5.0|locate-character@3.0.0",
-        "lasearch@0.5.0|magic-string@0.30.21",
-        "lasearch@0.5.0|zimmerframe@1.1.4"
+        "lasearch@0.5.1|@jridgewell/remapping@2.3.5",
+        "lasearch@0.5.1|@jridgewell/sourcemap-codec@1.5.5",
+        "lasearch@0.5.1|@sveltejs/acorn-typescript@1.0.9",
+        "lasearch@0.5.1|@types/estree@1.0.8",
+        "lasearch@0.5.1|@types/trusted-types@2.0.7",
+        "lasearch@0.5.1|acorn@8.15.0",
+        "lasearch@0.5.1|aria-query@5.3.1",
+        "lasearch@0.5.1|axobject-query@4.1.0",
+        "lasearch@0.5.1|clsx@2.1.1",
+        "lasearch@0.5.1|devalue@5.6.4",
+        "lasearch@0.5.1|esm-env@1.2.2",
+        "lasearch@0.5.1|esrap@2.2.3",
+        "lasearch@0.5.1|is-reference@3.0.3",
+        "lasearch@0.5.1|locate-character@3.0.0",
+        "lasearch@0.5.1|magic-string@0.30.21",
+        "lasearch@0.5.1|zimmerframe@1.1.4"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|tailwind-merge@3.4.0"
+      "ref": "lasearch@0.5.1|tailwind-merge@3.4.0"
     },
     {
-      "ref": "lasearch@0.5.0|tailwind-variants@3.2.2",
+      "ref": "lasearch@0.5.1|tailwind-variants@3.2.2",
       "dependsOn": [
-        "lasearch@0.5.0|tailwind-merge@3.4.0",
-        "lasearch@0.5.0|tailwindcss@4.1.18"
+        "lasearch@0.5.1|tailwind-merge@3.4.0",
+        "lasearch@0.5.1|tailwindcss@4.1.18"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|tailwindcss@4.1.18"
+      "ref": "lasearch@0.5.1|tailwindcss@4.1.18"
     },
     {
-      "ref": "lasearch@0.5.0|tw-animate-css@1.4.0"
+      "ref": "lasearch@0.5.1|tw-animate-css@1.4.0"
     },
     {
-      "ref": "lasearch@0.5.0|typescript@5.9.3"
+      "ref": "lasearch@0.5.1|typescript@5.9.3"
     },
     {
-      "ref": "lasearch@0.5.0|vite@7.3.1",
+      "ref": "lasearch@0.5.1|vite@7.3.1",
       "dependsOn": [
-        "lasearch@0.5.0|esbuild@0.27.3",
-        "lasearch@0.5.0|fdir@6.5.0",
-        "lasearch@0.5.0|fsevents@2.3.3",
-        "lasearch@0.5.0|jiti@2.6.1",
-        "lasearch@0.5.0|lightningcss@1.30.2",
-        "lasearch@0.5.0|picomatch@4.0.3",
-        "lasearch@0.5.0|postcss@8.5.6",
-        "lasearch@0.5.0|rollup@4.59.0",
-        "lasearch@0.5.0|tinyglobby@0.2.15"
+        "lasearch@0.5.1|esbuild@0.27.3",
+        "lasearch@0.5.1|fdir@6.5.0",
+        "lasearch@0.5.1|fsevents@2.3.3",
+        "lasearch@0.5.1|jiti@2.6.1",
+        "lasearch@0.5.1|lightningcss@1.30.2",
+        "lasearch@0.5.1|picomatch@4.0.3",
+        "lasearch@0.5.1|postcss@8.5.6",
+        "lasearch@0.5.1|rollup@4.59.0",
+        "lasearch@0.5.1|tinyglobby@0.2.15"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|xlsx@0.20.3"
+      "ref": "lasearch@0.5.1|xlsx@0.20.3"
     },
     {
-      "ref": "lasearch@0.5.0|@swc/helpers@0.5.18",
+      "ref": "lasearch@0.5.1|@swc/helpers@0.5.18",
       "dependsOn": [
-        "lasearch@0.5.0|tslib@2.8.1"
+        "lasearch@0.5.1|tslib@2.8.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|assert@2.1.0",
+      "ref": "lasearch@0.5.1|assert@2.1.0",
       "dependsOn": [
-        "lasearch@0.5.0|call-bind@1.0.8",
-        "lasearch@0.5.0|is-nan@1.3.2",
-        "lasearch@0.5.0|object-is@1.1.6",
-        "lasearch@0.5.0|object.assign@4.1.7",
-        "lasearch@0.5.0|util@0.12.5"
+        "lasearch@0.5.1|call-bind@1.0.8",
+        "lasearch@0.5.1|is-nan@1.3.2",
+        "lasearch@0.5.1|object-is@1.1.6",
+        "lasearch@0.5.1|object.assign@4.1.7",
+        "lasearch@0.5.1|util@0.12.5"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|core-js@3.48.0"
+      "ref": "lasearch@0.5.1|core-js@3.48.0"
     },
     {
-      "ref": "lasearch@0.5.0|event-emitter@0.3.5",
+      "ref": "lasearch@0.5.1|event-emitter@0.3.5",
       "dependsOn": [
-        "lasearch@0.5.0|d@1.0.2",
-        "lasearch@0.5.0|es5-ext@0.10.64"
+        "lasearch@0.5.1|d@1.0.2",
+        "lasearch@0.5.1|es5-ext@0.10.64"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|jszip@3.10.1",
+      "ref": "lasearch@0.5.1|jszip@3.10.1",
       "dependsOn": [
-        "lasearch@0.5.0|lie@3.3.0",
-        "lasearch@0.5.0|pako@1.0.11",
-        "lasearch@0.5.0|readable-stream@2.3.8",
-        "lasearch@0.5.0|setimmediate@1.0.5"
+        "lasearch@0.5.1|lie@3.3.0",
+        "lasearch@0.5.1|pako@1.0.11",
+        "lasearch@0.5.1|readable-stream@2.3.8",
+        "lasearch@0.5.1|setimmediate@1.0.5"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|localforage@1.10.0",
+      "ref": "lasearch@0.5.1|localforage@1.10.0",
       "dependsOn": [
-        "lasearch@0.5.0|localforage@1.10.0|lie@3.1.1"
+        "lasearch@0.5.1|localforage@1.10.0|lie@3.1.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|localforage@1.10.0|lie@3.1.1",
+      "ref": "lasearch@0.5.1|localforage@1.10.0|lie@3.1.1",
       "dependsOn": [
-        "lasearch@0.5.0|immediate@3.0.6"
+        "lasearch@0.5.1|immediate@3.0.6"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|lodash@4.17.23"
+      "ref": "lasearch@0.5.1|lodash@4.17.23"
     },
     {
-      "ref": "lasearch@0.5.0|@standard-schema/spec@1.1.0"
+      "ref": "lasearch@0.5.1|@standard-schema/spec@1.1.0"
     },
     {
-      "ref": "lasearch@0.5.0|@sveltejs/acorn-typescript@1.0.9",
+      "ref": "lasearch@0.5.1|@sveltejs/acorn-typescript@1.0.9",
       "dependsOn": [
-        "lasearch@0.5.0|acorn@8.15.0"
+        "lasearch@0.5.1|acorn@8.15.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@types/cookie@0.6.0"
+      "ref": "lasearch@0.5.1|@types/cookie@0.6.0"
     },
     {
-      "ref": "lasearch@0.5.0|acorn@8.15.0"
+      "ref": "lasearch@0.5.1|acorn@8.15.0"
     },
     {
-      "ref": "lasearch@0.5.0|cookie@0.7.2"
+      "ref": "lasearch@0.5.1|cookie@0.7.2"
     },
     {
-      "ref": "lasearch@0.5.0|devalue@5.6.4"
+      "ref": "lasearch@0.5.1|devalue@5.6.4"
     },
     {
-      "ref": "lasearch@0.5.0|esm-env@1.2.2"
+      "ref": "lasearch@0.5.1|esm-env@1.2.2"
     },
     {
-      "ref": "lasearch@0.5.0|kleur@4.1.5"
+      "ref": "lasearch@0.5.1|kleur@4.1.5"
     },
     {
-      "ref": "lasearch@0.5.0|magic-string@0.30.21",
+      "ref": "lasearch@0.5.1|magic-string@0.30.21",
       "dependsOn": [
-        "lasearch@0.5.0|@jridgewell/sourcemap-codec@1.5.5"
+        "lasearch@0.5.1|@jridgewell/sourcemap-codec@1.5.5"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|mrmime@2.0.1"
+      "ref": "lasearch@0.5.1|mrmime@2.0.1"
     },
     {
-      "ref": "lasearch@0.5.0|set-cookie-parser@3.0.1"
+      "ref": "lasearch@0.5.1|set-cookie-parser@3.0.1"
     },
     {
-      "ref": "lasearch@0.5.0|sirv@3.0.2",
+      "ref": "lasearch@0.5.1|sirv@3.0.2",
       "dependsOn": [
-        "lasearch@0.5.0|@polka/url@1.0.0-next.29",
-        "lasearch@0.5.0|mrmime@2.0.1",
-        "lasearch@0.5.0|totalist@3.0.1"
+        "lasearch@0.5.1|@polka/url@1.0.0-next.29",
+        "lasearch@0.5.1|mrmime@2.0.1",
+        "lasearch@0.5.1|totalist@3.0.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@sveltejs/vite-plugin-svelte-inspector@5.0.2",
+      "ref": "lasearch@0.5.1|@sveltejs/vite-plugin-svelte-inspector@5.0.2",
       "dependsOn": [
-        "lasearch@0.5.0|@sveltejs/vite-plugin-svelte@6.2.4",
-        "lasearch@0.5.0|obug@2.1.1",
-        "lasearch@0.5.0|svelte@5.53.7",
-        "lasearch@0.5.0|vite@7.3.1"
+        "lasearch@0.5.1|@sveltejs/vite-plugin-svelte@6.2.4",
+        "lasearch@0.5.1|obug@2.1.1",
+        "lasearch@0.5.1|svelte@5.53.7",
+        "lasearch@0.5.1|vite@7.3.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|deepmerge@4.3.1"
+      "ref": "lasearch@0.5.1|deepmerge@4.3.1"
     },
     {
-      "ref": "lasearch@0.5.0|obug@2.1.1"
+      "ref": "lasearch@0.5.1|obug@2.1.1"
     },
     {
-      "ref": "lasearch@0.5.0|vitefu@1.1.1",
+      "ref": "lasearch@0.5.1|vitefu@1.1.1",
       "dependsOn": [
-        "lasearch@0.5.0|vite@7.3.1"
+        "lasearch@0.5.1|vite@7.3.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tailwindcss/node@4.1.18",
+      "ref": "lasearch@0.5.1|@tailwindcss/node@4.1.18",
       "dependsOn": [
-        "lasearch@0.5.0|@jridgewell/remapping@2.3.5",
-        "lasearch@0.5.0|enhanced-resolve@5.19.0",
-        "lasearch@0.5.0|jiti@2.6.1",
-        "lasearch@0.5.0|lightningcss@1.30.2",
-        "lasearch@0.5.0|magic-string@0.30.21",
-        "lasearch@0.5.0|source-map-js@1.2.1",
-        "lasearch@0.5.0|tailwindcss@4.1.18"
+        "lasearch@0.5.1|@jridgewell/remapping@2.3.5",
+        "lasearch@0.5.1|enhanced-resolve@5.19.0",
+        "lasearch@0.5.1|jiti@2.6.1",
+        "lasearch@0.5.1|lightningcss@1.30.2",
+        "lasearch@0.5.1|magic-string@0.30.21",
+        "lasearch@0.5.1|source-map-js@1.2.1",
+        "lasearch@0.5.1|tailwindcss@4.1.18"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tailwindcss/oxide@4.1.18",
+      "ref": "lasearch@0.5.1|@tailwindcss/oxide@4.1.18",
       "dependsOn": [
-        "lasearch@0.5.0|@tailwindcss/oxide-darwin-arm64@4.1.18"
+        "lasearch@0.5.1|@tailwindcss/oxide-darwin-arm64@4.1.18"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@tauri-apps/cli-darwin-arm64@2.10.0"
+      "ref": "lasearch@0.5.1|@tauri-apps/cli-darwin-arm64@2.10.0"
     },
     {
-      "ref": "lasearch@0.5.0|@types/trusted-types@2.0.7"
+      "ref": "lasearch@0.5.1|@types/trusted-types@2.0.7"
     },
     {
-      "ref": "lasearch@0.5.0|@floating-ui/core@1.7.4",
+      "ref": "lasearch@0.5.1|@floating-ui/core@1.7.4",
       "dependsOn": [
-        "lasearch@0.5.0|@floating-ui/utils@0.2.10"
+        "lasearch@0.5.1|@floating-ui/utils@0.2.10"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@floating-ui/dom@1.7.5",
+      "ref": "lasearch@0.5.1|@floating-ui/dom@1.7.5",
       "dependsOn": [
-        "lasearch@0.5.0|@floating-ui/core@1.7.4",
-        "lasearch@0.5.0|@floating-ui/utils@0.2.10"
+        "lasearch@0.5.1|@floating-ui/core@1.7.4",
+        "lasearch@0.5.1|@floating-ui/utils@0.2.10"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|runed@0.35.1",
+      "ref": "lasearch@0.5.1|runed@0.35.1",
       "dependsOn": [
-        "lasearch@0.5.0|@sveltejs/kit@2.53.4",
-        "lasearch@0.5.0|dequal@2.0.3",
-        "lasearch@0.5.0|esm-env@1.2.2",
-        "lasearch@0.5.0|lz-string@1.5.0",
-        "lasearch@0.5.0|svelte@5.53.7"
+        "lasearch@0.5.1|@sveltejs/kit@2.53.4",
+        "lasearch@0.5.1|dequal@2.0.3",
+        "lasearch@0.5.1|esm-env@1.2.2",
+        "lasearch@0.5.1|lz-string@1.5.0",
+        "lasearch@0.5.1|svelte@5.53.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|svelte-toolbelt@0.10.6",
+      "ref": "lasearch@0.5.1|svelte-toolbelt@0.10.6",
       "dependsOn": [
-        "lasearch@0.5.0|clsx@2.1.1",
-        "lasearch@0.5.0|runed@0.35.1",
-        "lasearch@0.5.0|style-to-object@1.0.14",
-        "lasearch@0.5.0|svelte@5.53.7"
+        "lasearch@0.5.1|clsx@2.1.1",
+        "lasearch@0.5.1|runed@0.35.1",
+        "lasearch@0.5.1|style-to-object@1.0.14",
+        "lasearch@0.5.1|svelte@5.53.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|tabbable@6.4.0"
+      "ref": "lasearch@0.5.1|tabbable@6.4.0"
     },
     {
-      "ref": "lasearch@0.5.0|@xmldom/xmldom@0.8.11"
+      "ref": "lasearch@0.5.1|@xmldom/xmldom@0.8.11"
     },
     {
-      "ref": "lasearch@0.5.0|argparse@1.0.10",
+      "ref": "lasearch@0.5.1|argparse@1.0.10",
       "dependsOn": [
-        "lasearch@0.5.0|sprintf-js@1.0.3"
+        "lasearch@0.5.1|sprintf-js@1.0.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|base64-js@1.5.1"
+      "ref": "lasearch@0.5.1|base64-js@1.5.1"
     },
     {
-      "ref": "lasearch@0.5.0|bluebird@3.4.7"
+      "ref": "lasearch@0.5.1|bluebird@3.4.7"
     },
     {
-      "ref": "lasearch@0.5.0|dingbat-to-unicode@1.0.1"
+      "ref": "lasearch@0.5.1|dingbat-to-unicode@1.0.1"
     },
     {
-      "ref": "lasearch@0.5.0|lop@0.4.2",
+      "ref": "lasearch@0.5.1|lop@0.4.2",
       "dependsOn": [
-        "lasearch@0.5.0|duck@0.1.12",
-        "lasearch@0.5.0|option@0.2.4",
-        "lasearch@0.5.0|underscore@1.13.8"
+        "lasearch@0.5.1|duck@0.1.12",
+        "lasearch@0.5.1|option@0.2.4",
+        "lasearch@0.5.1|underscore@1.13.8"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|path-is-absolute@1.0.1"
+      "ref": "lasearch@0.5.1|path-is-absolute@1.0.1"
     },
     {
-      "ref": "lasearch@0.5.0|underscore@1.13.8"
+      "ref": "lasearch@0.5.1|underscore@1.13.8"
     },
     {
-      "ref": "lasearch@0.5.0|xmlbuilder@10.1.1"
+      "ref": "lasearch@0.5.1|xmlbuilder@10.1.1"
     },
     {
-      "ref": "lasearch@0.5.0|commander@14.0.3"
+      "ref": "lasearch@0.5.1|commander@14.0.3"
     },
     {
-      "ref": "lasearch@0.5.0|node-fetch-native@1.6.7"
+      "ref": "lasearch@0.5.1|node-fetch-native@1.6.7"
     },
     {
-      "ref": "lasearch@0.5.0|postcss@8.5.6",
+      "ref": "lasearch@0.5.1|postcss@8.5.6",
       "dependsOn": [
-        "lasearch@0.5.0|nanoid@3.3.11",
-        "lasearch@0.5.0|picocolors@1.1.1",
-        "lasearch@0.5.0|source-map-js@1.2.1"
+        "lasearch@0.5.1|nanoid@3.3.11",
+        "lasearch@0.5.1|picocolors@1.1.1",
+        "lasearch@0.5.1|source-map-js@1.2.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@jridgewell/trace-mapping@0.3.31",
+      "ref": "lasearch@0.5.1|@jridgewell/trace-mapping@0.3.31",
       "dependsOn": [
-        "lasearch@0.5.0|@jridgewell/resolve-uri@3.1.2",
-        "lasearch@0.5.0|@jridgewell/sourcemap-codec@1.5.5"
+        "lasearch@0.5.1|@jridgewell/resolve-uri@3.1.2",
+        "lasearch@0.5.1|@jridgewell/sourcemap-codec@1.5.5"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|chokidar@4.0.3",
+      "ref": "lasearch@0.5.1|chokidar@4.0.3",
       "dependsOn": [
-        "lasearch@0.5.0|readdirp@4.1.2"
+        "lasearch@0.5.1|readdirp@4.1.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|fdir@6.5.0",
+      "ref": "lasearch@0.5.1|fdir@6.5.0",
       "dependsOn": [
-        "lasearch@0.5.0|picomatch@4.0.3"
+        "lasearch@0.5.1|picomatch@4.0.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|picocolors@1.1.1"
+      "ref": "lasearch@0.5.1|picocolors@1.1.1"
     },
     {
-      "ref": "lasearch@0.5.0|sade@1.8.1",
+      "ref": "lasearch@0.5.1|sade@1.8.1",
       "dependsOn": [
-        "lasearch@0.5.0|mri@1.2.0"
+        "lasearch@0.5.1|mri@1.2.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@jridgewell/remapping@2.3.5",
+      "ref": "lasearch@0.5.1|@jridgewell/remapping@2.3.5",
       "dependsOn": [
-        "lasearch@0.5.0|@jridgewell/gen-mapping@0.3.13",
-        "lasearch@0.5.0|@jridgewell/trace-mapping@0.3.31"
+        "lasearch@0.5.1|@jridgewell/gen-mapping@0.3.13",
+        "lasearch@0.5.1|@jridgewell/trace-mapping@0.3.31"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@jridgewell/sourcemap-codec@1.5.5"
+      "ref": "lasearch@0.5.1|@jridgewell/sourcemap-codec@1.5.5"
     },
     {
-      "ref": "lasearch@0.5.0|@types/estree@1.0.8"
+      "ref": "lasearch@0.5.1|@types/estree@1.0.8"
     },
     {
-      "ref": "lasearch@0.5.0|aria-query@5.3.1"
+      "ref": "lasearch@0.5.1|aria-query@5.3.1"
     },
     {
-      "ref": "lasearch@0.5.0|axobject-query@4.1.0"
+      "ref": "lasearch@0.5.1|axobject-query@4.1.0"
     },
     {
-      "ref": "lasearch@0.5.0|esrap@2.2.3",
+      "ref": "lasearch@0.5.1|esrap@2.2.3",
       "dependsOn": [
-        "lasearch@0.5.0|@jridgewell/sourcemap-codec@1.5.5"
+        "lasearch@0.5.1|@jridgewell/sourcemap-codec@1.5.5"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|is-reference@3.0.3",
+      "ref": "lasearch@0.5.1|is-reference@3.0.3",
       "dependsOn": [
-        "lasearch@0.5.0|@types/estree@1.0.8"
+        "lasearch@0.5.1|@types/estree@1.0.8"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|locate-character@3.0.0"
+      "ref": "lasearch@0.5.1|locate-character@3.0.0"
     },
     {
-      "ref": "lasearch@0.5.0|zimmerframe@1.1.4"
+      "ref": "lasearch@0.5.1|zimmerframe@1.1.4"
     },
     {
-      "ref": "lasearch@0.5.0|esbuild@0.27.3",
+      "ref": "lasearch@0.5.1|esbuild@0.27.3",
       "dependsOn": [
-        "lasearch@0.5.0|@esbuild/darwin-arm64@0.27.3"
+        "lasearch@0.5.1|@esbuild/darwin-arm64@0.27.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|fsevents@2.3.3"
+      "ref": "lasearch@0.5.1|fsevents@2.3.3"
     },
     {
-      "ref": "lasearch@0.5.0|jiti@2.6.1"
+      "ref": "lasearch@0.5.1|jiti@2.6.1"
     },
     {
-      "ref": "lasearch@0.5.0|lightningcss@1.30.2",
+      "ref": "lasearch@0.5.1|lightningcss@1.30.2",
       "dependsOn": [
-        "lasearch@0.5.0|detect-libc@2.1.2",
-        "lasearch@0.5.0|lightningcss-darwin-arm64@1.30.2"
+        "lasearch@0.5.1|detect-libc@2.1.2",
+        "lasearch@0.5.1|lightningcss-darwin-arm64@1.30.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|picomatch@4.0.3"
+      "ref": "lasearch@0.5.1|picomatch@4.0.3"
     },
     {
-      "ref": "lasearch@0.5.0|rollup@4.59.0",
+      "ref": "lasearch@0.5.1|rollup@4.59.0",
       "dependsOn": [
-        "lasearch@0.5.0|@rollup/rollup-darwin-arm64@4.59.0",
-        "lasearch@0.5.0|@types/estree@1.0.8",
-        "lasearch@0.5.0|fsevents@2.3.3"
+        "lasearch@0.5.1|@rollup/rollup-darwin-arm64@4.59.0",
+        "lasearch@0.5.1|@types/estree@1.0.8",
+        "lasearch@0.5.1|fsevents@2.3.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|tinyglobby@0.2.15",
+      "ref": "lasearch@0.5.1|tinyglobby@0.2.15",
       "dependsOn": [
-        "lasearch@0.5.0|fdir@6.5.0",
-        "lasearch@0.5.0|picomatch@4.0.3"
+        "lasearch@0.5.1|fdir@6.5.0",
+        "lasearch@0.5.1|picomatch@4.0.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|tslib@2.8.1"
+      "ref": "lasearch@0.5.1|tslib@2.8.1"
     },
     {
-      "ref": "lasearch@0.5.0|call-bind@1.0.8",
+      "ref": "lasearch@0.5.1|call-bind@1.0.8",
       "dependsOn": [
-        "lasearch@0.5.0|call-bind-apply-helpers@1.0.2",
-        "lasearch@0.5.0|es-define-property@1.0.1",
-        "lasearch@0.5.0|get-intrinsic@1.3.0",
-        "lasearch@0.5.0|set-function-length@1.2.2"
+        "lasearch@0.5.1|call-bind-apply-helpers@1.0.2",
+        "lasearch@0.5.1|es-define-property@1.0.1",
+        "lasearch@0.5.1|get-intrinsic@1.3.0",
+        "lasearch@0.5.1|set-function-length@1.2.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|is-nan@1.3.2",
+      "ref": "lasearch@0.5.1|is-nan@1.3.2",
       "dependsOn": [
-        "lasearch@0.5.0|call-bind@1.0.8",
-        "lasearch@0.5.0|define-properties@1.2.1"
+        "lasearch@0.5.1|call-bind@1.0.8",
+        "lasearch@0.5.1|define-properties@1.2.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|object-is@1.1.6",
+      "ref": "lasearch@0.5.1|object-is@1.1.6",
       "dependsOn": [
-        "lasearch@0.5.0|call-bind@1.0.8",
-        "lasearch@0.5.0|define-properties@1.2.1"
+        "lasearch@0.5.1|call-bind@1.0.8",
+        "lasearch@0.5.1|define-properties@1.2.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|object.assign@4.1.7",
+      "ref": "lasearch@0.5.1|object.assign@4.1.7",
       "dependsOn": [
-        "lasearch@0.5.0|call-bind@1.0.8",
-        "lasearch@0.5.0|call-bound@1.0.4",
-        "lasearch@0.5.0|define-properties@1.2.1",
-        "lasearch@0.5.0|es-object-atoms@1.1.1",
-        "lasearch@0.5.0|has-symbols@1.1.0",
-        "lasearch@0.5.0|object-keys@1.1.1"
+        "lasearch@0.5.1|call-bind@1.0.8",
+        "lasearch@0.5.1|call-bound@1.0.4",
+        "lasearch@0.5.1|define-properties@1.2.1",
+        "lasearch@0.5.1|es-object-atoms@1.1.1",
+        "lasearch@0.5.1|has-symbols@1.1.0",
+        "lasearch@0.5.1|object-keys@1.1.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|util@0.12.5",
+      "ref": "lasearch@0.5.1|util@0.12.5",
       "dependsOn": [
-        "lasearch@0.5.0|inherits@2.0.4",
-        "lasearch@0.5.0|is-arguments@1.2.0",
-        "lasearch@0.5.0|is-generator-function@1.1.2",
-        "lasearch@0.5.0|is-typed-array@1.1.15",
-        "lasearch@0.5.0|which-typed-array@1.1.20"
+        "lasearch@0.5.1|inherits@2.0.4",
+        "lasearch@0.5.1|is-arguments@1.2.0",
+        "lasearch@0.5.1|is-generator-function@1.1.2",
+        "lasearch@0.5.1|is-typed-array@1.1.15",
+        "lasearch@0.5.1|which-typed-array@1.1.20"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|d@1.0.2",
+      "ref": "lasearch@0.5.1|d@1.0.2",
       "dependsOn": [
-        "lasearch@0.5.0|es5-ext@0.10.64",
-        "lasearch@0.5.0|type@2.7.3"
+        "lasearch@0.5.1|es5-ext@0.10.64",
+        "lasearch@0.5.1|type@2.7.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|es5-ext@0.10.64",
+      "ref": "lasearch@0.5.1|es5-ext@0.10.64",
       "dependsOn": [
-        "lasearch@0.5.0|es6-iterator@2.0.3",
-        "lasearch@0.5.0|es6-symbol@3.1.4",
-        "lasearch@0.5.0|esniff@2.0.1",
-        "lasearch@0.5.0|next-tick@1.1.0"
+        "lasearch@0.5.1|es6-iterator@2.0.3",
+        "lasearch@0.5.1|es6-symbol@3.1.4",
+        "lasearch@0.5.1|esniff@2.0.1",
+        "lasearch@0.5.1|next-tick@1.1.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|lie@3.3.0",
+      "ref": "lasearch@0.5.1|lie@3.3.0",
       "dependsOn": [
-        "lasearch@0.5.0|immediate@3.0.6"
+        "lasearch@0.5.1|immediate@3.0.6"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|pako@1.0.11"
+      "ref": "lasearch@0.5.1|pako@1.0.11"
     },
     {
-      "ref": "lasearch@0.5.0|readable-stream@2.3.8",
+      "ref": "lasearch@0.5.1|readable-stream@2.3.8",
       "dependsOn": [
-        "lasearch@0.5.0|core-util-is@1.0.3",
-        "lasearch@0.5.0|inherits@2.0.4",
-        "lasearch@0.5.0|isarray@1.0.0",
-        "lasearch@0.5.0|process-nextick-args@2.0.1",
-        "lasearch@0.5.0|safe-buffer@5.1.2",
-        "lasearch@0.5.0|string_decoder@1.1.1",
-        "lasearch@0.5.0|util-deprecate@1.0.2"
+        "lasearch@0.5.1|core-util-is@1.0.3",
+        "lasearch@0.5.1|inherits@2.0.4",
+        "lasearch@0.5.1|isarray@1.0.0",
+        "lasearch@0.5.1|process-nextick-args@2.0.1",
+        "lasearch@0.5.1|safe-buffer@5.1.2",
+        "lasearch@0.5.1|string_decoder@1.1.1",
+        "lasearch@0.5.1|util-deprecate@1.0.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|setimmediate@1.0.5"
+      "ref": "lasearch@0.5.1|setimmediate@1.0.5"
     },
     {
-      "ref": "lasearch@0.5.0|@polka/url@1.0.0-next.29"
+      "ref": "lasearch@0.5.1|@polka/url@1.0.0-next.29"
     },
     {
-      "ref": "lasearch@0.5.0|totalist@3.0.1"
+      "ref": "lasearch@0.5.1|totalist@3.0.1"
     },
     {
-      "ref": "lasearch@0.5.0|enhanced-resolve@5.19.0",
+      "ref": "lasearch@0.5.1|enhanced-resolve@5.19.0",
       "dependsOn": [
-        "lasearch@0.5.0|graceful-fs@4.2.11",
-        "lasearch@0.5.0|tapable@2.3.0"
+        "lasearch@0.5.1|graceful-fs@4.2.11",
+        "lasearch@0.5.1|tapable@2.3.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|source-map-js@1.2.1"
+      "ref": "lasearch@0.5.1|source-map-js@1.2.1"
     },
     {
-      "ref": "lasearch@0.5.0|@tailwindcss/oxide-darwin-arm64@4.1.18"
+      "ref": "lasearch@0.5.1|@tailwindcss/oxide-darwin-arm64@4.1.18"
     },
     {
-      "ref": "lasearch@0.5.0|@floating-ui/utils@0.2.10"
+      "ref": "lasearch@0.5.1|@floating-ui/utils@0.2.10"
     },
     {
-      "ref": "lasearch@0.5.0|dequal@2.0.3"
+      "ref": "lasearch@0.5.1|dequal@2.0.3"
     },
     {
-      "ref": "lasearch@0.5.0|lz-string@1.5.0"
+      "ref": "lasearch@0.5.1|lz-string@1.5.0"
     },
     {
-      "ref": "lasearch@0.5.0|style-to-object@1.0.14",
+      "ref": "lasearch@0.5.1|style-to-object@1.0.14",
       "dependsOn": [
-        "lasearch@0.5.0|inline-style-parser@0.2.7"
+        "lasearch@0.5.1|inline-style-parser@0.2.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|sprintf-js@1.0.3"
+      "ref": "lasearch@0.5.1|sprintf-js@1.0.3"
     },
     {
-      "ref": "lasearch@0.5.0|duck@0.1.12",
+      "ref": "lasearch@0.5.1|duck@0.1.12",
       "dependsOn": [
-        "lasearch@0.5.0|underscore@1.13.8"
+        "lasearch@0.5.1|underscore@1.13.8"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|option@0.2.4"
+      "ref": "lasearch@0.5.1|option@0.2.4"
     },
     {
-      "ref": "lasearch@0.5.0|nanoid@3.3.11"
+      "ref": "lasearch@0.5.1|nanoid@3.3.11"
     },
     {
-      "ref": "lasearch@0.5.0|@jridgewell/resolve-uri@3.1.2"
+      "ref": "lasearch@0.5.1|@jridgewell/resolve-uri@3.1.2"
     },
     {
-      "ref": "lasearch@0.5.0|readdirp@4.1.2"
+      "ref": "lasearch@0.5.1|readdirp@4.1.2"
     },
     {
-      "ref": "lasearch@0.5.0|mri@1.2.0"
+      "ref": "lasearch@0.5.1|mri@1.2.0"
     },
     {
-      "ref": "lasearch@0.5.0|@jridgewell/gen-mapping@0.3.13",
+      "ref": "lasearch@0.5.1|@jridgewell/gen-mapping@0.3.13",
       "dependsOn": [
-        "lasearch@0.5.0|@jridgewell/sourcemap-codec@1.5.5",
-        "lasearch@0.5.0|@jridgewell/trace-mapping@0.3.31"
+        "lasearch@0.5.1|@jridgewell/sourcemap-codec@1.5.5",
+        "lasearch@0.5.1|@jridgewell/trace-mapping@0.3.31"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|@esbuild/darwin-arm64@0.27.3"
+      "ref": "lasearch@0.5.1|@esbuild/darwin-arm64@0.27.3"
     },
     {
-      "ref": "lasearch@0.5.0|detect-libc@2.1.2"
+      "ref": "lasearch@0.5.1|detect-libc@2.1.2"
     },
     {
-      "ref": "lasearch@0.5.0|lightningcss-darwin-arm64@1.30.2"
+      "ref": "lasearch@0.5.1|lightningcss-darwin-arm64@1.30.2"
     },
     {
-      "ref": "lasearch@0.5.0|@rollup/rollup-darwin-arm64@4.59.0"
+      "ref": "lasearch@0.5.1|@rollup/rollup-darwin-arm64@4.59.0"
     },
     {
-      "ref": "lasearch@0.5.0|call-bind-apply-helpers@1.0.2",
+      "ref": "lasearch@0.5.1|call-bind-apply-helpers@1.0.2",
       "dependsOn": [
-        "lasearch@0.5.0|es-errors@1.3.0",
-        "lasearch@0.5.0|function-bind@1.1.2"
+        "lasearch@0.5.1|es-errors@1.3.0",
+        "lasearch@0.5.1|function-bind@1.1.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|es-define-property@1.0.1"
+      "ref": "lasearch@0.5.1|es-define-property@1.0.1"
     },
     {
-      "ref": "lasearch@0.5.0|get-intrinsic@1.3.0",
+      "ref": "lasearch@0.5.1|get-intrinsic@1.3.0",
       "dependsOn": [
-        "lasearch@0.5.0|call-bind-apply-helpers@1.0.2",
-        "lasearch@0.5.0|es-define-property@1.0.1",
-        "lasearch@0.5.0|es-errors@1.3.0",
-        "lasearch@0.5.0|es-object-atoms@1.1.1",
-        "lasearch@0.5.0|function-bind@1.1.2",
-        "lasearch@0.5.0|get-proto@1.0.1",
-        "lasearch@0.5.0|gopd@1.2.0",
-        "lasearch@0.5.0|has-symbols@1.1.0",
-        "lasearch@0.5.0|hasown@2.0.2",
-        "lasearch@0.5.0|math-intrinsics@1.1.0"
+        "lasearch@0.5.1|call-bind-apply-helpers@1.0.2",
+        "lasearch@0.5.1|es-define-property@1.0.1",
+        "lasearch@0.5.1|es-errors@1.3.0",
+        "lasearch@0.5.1|es-object-atoms@1.1.1",
+        "lasearch@0.5.1|function-bind@1.1.2",
+        "lasearch@0.5.1|get-proto@1.0.1",
+        "lasearch@0.5.1|gopd@1.2.0",
+        "lasearch@0.5.1|has-symbols@1.1.0",
+        "lasearch@0.5.1|hasown@2.0.2",
+        "lasearch@0.5.1|math-intrinsics@1.1.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|set-function-length@1.2.2",
+      "ref": "lasearch@0.5.1|set-function-length@1.2.2",
       "dependsOn": [
-        "lasearch@0.5.0|define-data-property@1.1.4",
-        "lasearch@0.5.0|es-errors@1.3.0",
-        "lasearch@0.5.0|function-bind@1.1.2",
-        "lasearch@0.5.0|get-intrinsic@1.3.0",
-        "lasearch@0.5.0|gopd@1.2.0",
-        "lasearch@0.5.0|has-property-descriptors@1.0.2"
+        "lasearch@0.5.1|define-data-property@1.1.4",
+        "lasearch@0.5.1|es-errors@1.3.0",
+        "lasearch@0.5.1|function-bind@1.1.2",
+        "lasearch@0.5.1|get-intrinsic@1.3.0",
+        "lasearch@0.5.1|gopd@1.2.0",
+        "lasearch@0.5.1|has-property-descriptors@1.0.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|define-properties@1.2.1",
+      "ref": "lasearch@0.5.1|define-properties@1.2.1",
       "dependsOn": [
-        "lasearch@0.5.0|define-data-property@1.1.4",
-        "lasearch@0.5.0|has-property-descriptors@1.0.2",
-        "lasearch@0.5.0|object-keys@1.1.1"
+        "lasearch@0.5.1|define-data-property@1.1.4",
+        "lasearch@0.5.1|has-property-descriptors@1.0.2",
+        "lasearch@0.5.1|object-keys@1.1.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|call-bound@1.0.4",
+      "ref": "lasearch@0.5.1|call-bound@1.0.4",
       "dependsOn": [
-        "lasearch@0.5.0|call-bind-apply-helpers@1.0.2",
-        "lasearch@0.5.0|get-intrinsic@1.3.0"
+        "lasearch@0.5.1|call-bind-apply-helpers@1.0.2",
+        "lasearch@0.5.1|get-intrinsic@1.3.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|es-object-atoms@1.1.1",
+      "ref": "lasearch@0.5.1|es-object-atoms@1.1.1",
       "dependsOn": [
-        "lasearch@0.5.0|es-errors@1.3.0"
+        "lasearch@0.5.1|es-errors@1.3.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|has-symbols@1.1.0"
+      "ref": "lasearch@0.5.1|has-symbols@1.1.0"
     },
     {
-      "ref": "lasearch@0.5.0|object-keys@1.1.1"
+      "ref": "lasearch@0.5.1|object-keys@1.1.1"
     },
     {
-      "ref": "lasearch@0.5.0|inherits@2.0.4"
+      "ref": "lasearch@0.5.1|inherits@2.0.4"
     },
     {
-      "ref": "lasearch@0.5.0|is-arguments@1.2.0",
+      "ref": "lasearch@0.5.1|is-arguments@1.2.0",
       "dependsOn": [
-        "lasearch@0.5.0|call-bound@1.0.4",
-        "lasearch@0.5.0|has-tostringtag@1.0.2"
+        "lasearch@0.5.1|call-bound@1.0.4",
+        "lasearch@0.5.1|has-tostringtag@1.0.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|is-generator-function@1.1.2",
+      "ref": "lasearch@0.5.1|is-generator-function@1.1.2",
       "dependsOn": [
-        "lasearch@0.5.0|call-bound@1.0.4",
-        "lasearch@0.5.0|generator-function@2.0.1",
-        "lasearch@0.5.0|get-proto@1.0.1",
-        "lasearch@0.5.0|has-tostringtag@1.0.2",
-        "lasearch@0.5.0|safe-regex-test@1.1.0"
+        "lasearch@0.5.1|call-bound@1.0.4",
+        "lasearch@0.5.1|generator-function@2.0.1",
+        "lasearch@0.5.1|get-proto@1.0.1",
+        "lasearch@0.5.1|has-tostringtag@1.0.2",
+        "lasearch@0.5.1|safe-regex-test@1.1.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|is-typed-array@1.1.15",
+      "ref": "lasearch@0.5.1|is-typed-array@1.1.15",
       "dependsOn": [
-        "lasearch@0.5.0|which-typed-array@1.1.20"
+        "lasearch@0.5.1|which-typed-array@1.1.20"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|which-typed-array@1.1.20",
+      "ref": "lasearch@0.5.1|which-typed-array@1.1.20",
       "dependsOn": [
-        "lasearch@0.5.0|available-typed-arrays@1.0.7",
-        "lasearch@0.5.0|call-bind@1.0.8",
-        "lasearch@0.5.0|call-bound@1.0.4",
-        "lasearch@0.5.0|for-each@0.3.5",
-        "lasearch@0.5.0|get-proto@1.0.1",
-        "lasearch@0.5.0|gopd@1.2.0",
-        "lasearch@0.5.0|has-tostringtag@1.0.2"
+        "lasearch@0.5.1|available-typed-arrays@1.0.7",
+        "lasearch@0.5.1|call-bind@1.0.8",
+        "lasearch@0.5.1|call-bound@1.0.4",
+        "lasearch@0.5.1|for-each@0.3.5",
+        "lasearch@0.5.1|get-proto@1.0.1",
+        "lasearch@0.5.1|gopd@1.2.0",
+        "lasearch@0.5.1|has-tostringtag@1.0.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|type@2.7.3"
+      "ref": "lasearch@0.5.1|type@2.7.3"
     },
     {
-      "ref": "lasearch@0.5.0|es6-iterator@2.0.3",
+      "ref": "lasearch@0.5.1|es6-iterator@2.0.3",
       "dependsOn": [
-        "lasearch@0.5.0|d@1.0.2",
-        "lasearch@0.5.0|es5-ext@0.10.64",
-        "lasearch@0.5.0|es6-symbol@3.1.4"
+        "lasearch@0.5.1|d@1.0.2",
+        "lasearch@0.5.1|es5-ext@0.10.64",
+        "lasearch@0.5.1|es6-symbol@3.1.4"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|es6-symbol@3.1.4",
+      "ref": "lasearch@0.5.1|es6-symbol@3.1.4",
       "dependsOn": [
-        "lasearch@0.5.0|d@1.0.2",
-        "lasearch@0.5.0|ext@1.7.0"
+        "lasearch@0.5.1|d@1.0.2",
+        "lasearch@0.5.1|ext@1.7.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|esniff@2.0.1",
+      "ref": "lasearch@0.5.1|esniff@2.0.1",
       "dependsOn": [
-        "lasearch@0.5.0|d@1.0.2",
-        "lasearch@0.5.0|es5-ext@0.10.64",
-        "lasearch@0.5.0|event-emitter@0.3.5",
-        "lasearch@0.5.0|type@2.7.3"
+        "lasearch@0.5.1|d@1.0.2",
+        "lasearch@0.5.1|es5-ext@0.10.64",
+        "lasearch@0.5.1|event-emitter@0.3.5",
+        "lasearch@0.5.1|type@2.7.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|next-tick@1.1.0"
+      "ref": "lasearch@0.5.1|next-tick@1.1.0"
     },
     {
-      "ref": "lasearch@0.5.0|immediate@3.0.6"
+      "ref": "lasearch@0.5.1|immediate@3.0.6"
     },
     {
-      "ref": "lasearch@0.5.0|core-util-is@1.0.3"
+      "ref": "lasearch@0.5.1|core-util-is@1.0.3"
     },
     {
-      "ref": "lasearch@0.5.0|isarray@1.0.0"
+      "ref": "lasearch@0.5.1|isarray@1.0.0"
     },
     {
-      "ref": "lasearch@0.5.0|process-nextick-args@2.0.1"
+      "ref": "lasearch@0.5.1|process-nextick-args@2.0.1"
     },
     {
-      "ref": "lasearch@0.5.0|safe-buffer@5.1.2"
+      "ref": "lasearch@0.5.1|safe-buffer@5.1.2"
     },
     {
-      "ref": "lasearch@0.5.0|string_decoder@1.1.1",
+      "ref": "lasearch@0.5.1|string_decoder@1.1.1",
       "dependsOn": [
-        "lasearch@0.5.0|safe-buffer@5.1.2"
+        "lasearch@0.5.1|safe-buffer@5.1.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|util-deprecate@1.0.2"
+      "ref": "lasearch@0.5.1|util-deprecate@1.0.2"
     },
     {
-      "ref": "lasearch@0.5.0|graceful-fs@4.2.11"
+      "ref": "lasearch@0.5.1|graceful-fs@4.2.11"
     },
     {
-      "ref": "lasearch@0.5.0|tapable@2.3.0"
+      "ref": "lasearch@0.5.1|tapable@2.3.0"
     },
     {
-      "ref": "lasearch@0.5.0|inline-style-parser@0.2.7"
+      "ref": "lasearch@0.5.1|inline-style-parser@0.2.7"
     },
     {
-      "ref": "lasearch@0.5.0|es-errors@1.3.0"
+      "ref": "lasearch@0.5.1|es-errors@1.3.0"
     },
     {
-      "ref": "lasearch@0.5.0|function-bind@1.1.2"
+      "ref": "lasearch@0.5.1|function-bind@1.1.2"
     },
     {
-      "ref": "lasearch@0.5.0|get-proto@1.0.1",
+      "ref": "lasearch@0.5.1|get-proto@1.0.1",
       "dependsOn": [
-        "lasearch@0.5.0|dunder-proto@1.0.1",
-        "lasearch@0.5.0|es-object-atoms@1.1.1"
+        "lasearch@0.5.1|dunder-proto@1.0.1",
+        "lasearch@0.5.1|es-object-atoms@1.1.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|gopd@1.2.0"
+      "ref": "lasearch@0.5.1|gopd@1.2.0"
     },
     {
-      "ref": "lasearch@0.5.0|hasown@2.0.2",
+      "ref": "lasearch@0.5.1|hasown@2.0.2",
       "dependsOn": [
-        "lasearch@0.5.0|function-bind@1.1.2"
+        "lasearch@0.5.1|function-bind@1.1.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|math-intrinsics@1.1.0"
+      "ref": "lasearch@0.5.1|math-intrinsics@1.1.0"
     },
     {
-      "ref": "lasearch@0.5.0|define-data-property@1.1.4",
+      "ref": "lasearch@0.5.1|define-data-property@1.1.4",
       "dependsOn": [
-        "lasearch@0.5.0|es-define-property@1.0.1",
-        "lasearch@0.5.0|es-errors@1.3.0",
-        "lasearch@0.5.0|gopd@1.2.0"
+        "lasearch@0.5.1|es-define-property@1.0.1",
+        "lasearch@0.5.1|es-errors@1.3.0",
+        "lasearch@0.5.1|gopd@1.2.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|has-property-descriptors@1.0.2",
+      "ref": "lasearch@0.5.1|has-property-descriptors@1.0.2",
       "dependsOn": [
-        "lasearch@0.5.0|es-define-property@1.0.1"
+        "lasearch@0.5.1|es-define-property@1.0.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|has-tostringtag@1.0.2",
+      "ref": "lasearch@0.5.1|has-tostringtag@1.0.2",
       "dependsOn": [
-        "lasearch@0.5.0|has-symbols@1.1.0"
+        "lasearch@0.5.1|has-symbols@1.1.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|generator-function@2.0.1"
+      "ref": "lasearch@0.5.1|generator-function@2.0.1"
     },
     {
-      "ref": "lasearch@0.5.0|safe-regex-test@1.1.0",
+      "ref": "lasearch@0.5.1|safe-regex-test@1.1.0",
       "dependsOn": [
-        "lasearch@0.5.0|call-bound@1.0.4",
-        "lasearch@0.5.0|es-errors@1.3.0",
-        "lasearch@0.5.0|is-regex@1.2.1"
+        "lasearch@0.5.1|call-bound@1.0.4",
+        "lasearch@0.5.1|es-errors@1.3.0",
+        "lasearch@0.5.1|is-regex@1.2.1"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|available-typed-arrays@1.0.7",
+      "ref": "lasearch@0.5.1|available-typed-arrays@1.0.7",
       "dependsOn": [
-        "lasearch@0.5.0|possible-typed-array-names@1.1.0"
+        "lasearch@0.5.1|possible-typed-array-names@1.1.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|for-each@0.3.5",
+      "ref": "lasearch@0.5.1|for-each@0.3.5",
       "dependsOn": [
-        "lasearch@0.5.0|is-callable@1.2.7"
+        "lasearch@0.5.1|is-callable@1.2.7"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|ext@1.7.0",
+      "ref": "lasearch@0.5.1|ext@1.7.0",
       "dependsOn": [
-        "lasearch@0.5.0|type@2.7.3"
+        "lasearch@0.5.1|type@2.7.3"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|dunder-proto@1.0.1",
+      "ref": "lasearch@0.5.1|dunder-proto@1.0.1",
       "dependsOn": [
-        "lasearch@0.5.0|call-bind-apply-helpers@1.0.2",
-        "lasearch@0.5.0|es-errors@1.3.0",
-        "lasearch@0.5.0|gopd@1.2.0"
+        "lasearch@0.5.1|call-bind-apply-helpers@1.0.2",
+        "lasearch@0.5.1|es-errors@1.3.0",
+        "lasearch@0.5.1|gopd@1.2.0"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|is-regex@1.2.1",
+      "ref": "lasearch@0.5.1|is-regex@1.2.1",
       "dependsOn": [
-        "lasearch@0.5.0|call-bound@1.0.4",
-        "lasearch@0.5.0|gopd@1.2.0",
-        "lasearch@0.5.0|has-tostringtag@1.0.2",
-        "lasearch@0.5.0|hasown@2.0.2"
+        "lasearch@0.5.1|call-bound@1.0.4",
+        "lasearch@0.5.1|gopd@1.2.0",
+        "lasearch@0.5.1|has-tostringtag@1.0.2",
+        "lasearch@0.5.1|hasown@2.0.2"
       ]
     },
     {
-      "ref": "lasearch@0.5.0|possible-typed-array-names@1.1.0"
+      "ref": "lasearch@0.5.1|possible-typed-array-names@1.1.0"
     },
     {
-      "ref": "lasearch@0.5.0|is-callable@1.2.7"
+      "ref": "lasearch@0.5.1|is-callable@1.2.7"
     }
   ]
 }

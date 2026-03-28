@@ -1,11 +1,15 @@
 {
-  "version": "0.5.0",
-  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">What's new</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li><strong>Sources replace Spaces</strong> — simpler setup. Your existing spaces will be migrated automatically. Just point at a folder and start searching.</li>\\n            <li><strong>Gmail Integration (Beta)</strong> — search emails and attachments alongside local files. Enable it manually in settings.</li>\\n            <li><strong>New /feedback and /help commands</strong> — report bugs, suggest features, or get help right from the search bar.</li>\\n        </ul>\\n        <p class=\\\"text-sm text-muted-foreground mt-2\\\">Plus: improved file previews, performance improvements, and various bug fixes.</p>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
-  "pub_date": "2026-03-19T18:17:51Z",
+  "version": "0.5.1",
+  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Bug fixes</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li><strong>Fixed crash on first launch</strong> — the app no longer crashes for new users due to a missing directory.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
+  "pub_date": "2026-03-28T14:32:47Z",
   "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzRxaGszajh0SjRNQTFyT2dQQzVsb0tuTlRBQ1NHRjE1V056aStqSHhONnVQYTUwUXF5elZyOWpFcjJWRlVURHR4TnBJTUl3L29FZUdPWVJuRnYySEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzA4MzY2CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpIckcwVjVYTWRUNXV6V0owWjVXVWJ4SmhFTVJLUHdGbVhvNFJtbzRqUm4rNE5QWDRnU0cwMHFmV1UyZEJGV0xPVTMzTElWeEJHVUg1SForMUo3RkdCUT09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.1/lasearch_x86_64.app.tar.gz"
+    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSytVdW1uM21OYVZWRXI3MkdkUC9veCt3TXlneVRsNUs5T0krUDhaOGRVdXRjeU54aVRXM0MxSitzdGZHczlSRS9MY2RVZjJEVUdsRkhUQklEbnhKZmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTQ0MjcwCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpML0xLclExY2hiT0dxQzEvRXZZL2x5MURjT0M5eUZZVk9oSDJKTEJJbEFjMDM1R0FjeEszcXNQQmQ4dlRGZ0htTFR3TmZxNW00WHJtUkVCZmVxa05CUT09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.0/lasearch.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzFKZWIwZ05JT1lpb0JMZlJ0Y0RjRjlLNUJ5ckYwNVRxNUEyZVdrVFVHOGdFdnlodU1DSzVwc3k0S0VpVXFSc0JwM2hKYVFyTlphcFFKSW0xeDE4b1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzA4MDYzCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpzcVQ0anVUc3BJdlVFS0s1cFJ3a2ZNQkJRY3UrNS9wWUdwd3hDZ0Y4TmxwRUo5UmRrNXd6VHhsdW1BUzVQRkNPRm50K1pDNktmK2xOWjVuS1pyMnNCdz09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.1/lasearch_aarch64.app.tar.gz"
     }
   }
 }
