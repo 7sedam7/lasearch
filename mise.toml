@@ -1,0 +1,13 @@
+[tasks.bla]
+run = """
+git add .
+git commit -m "Release $VERSION"
+git push origin main
+gh release create "v$VERSION" --latest \
+  --title "v$VERSION" \
+  --notes-file ../tauri-client/release-notes.md \
+  lasearch_aarch64.app.tar.gz lasearch_x86_64.app.tar.gz \
+  lasearch_aarch64.dmg lasearch_x86_64.dmg \
+  latest.json \
+  lasearch-cargo.cdx.json lasearch-npm.cdx.json
+"""

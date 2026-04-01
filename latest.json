@@ -1,15 +1,15 @@
 {
-  "version": "0.5.1",
-  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Bug fixes</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li><strong>Fixed crash on first launch</strong> — the app no longer crashes for new users due to a missing directory.</li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
-  "pub_date": "2026-03-28T14:32:47Z",
+  "version": "0.5.2",
+  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Security</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li><strong>Updated packages with vulnerability fixes</strong></li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
+  "pub_date": "2026-04-01T13:28:28Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzRxaGszajh0SjRNQTFyT2dQQzVsb0tuTlRBQ1NHRjE1V056aStqSHhONnVQYTUwUXF5elZyOWpFcjJWRlVURHR4TnBJTUl3L29FZUdPWVJuRnYySEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzA4MzY2CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpIckcwVjVYTWRUNXV6V0owWjVXVWJ4SmhFTVJLUHdGbVhvNFJtbzRqUm4rNE5QWDRnU0cwMHFmV1UyZEJGV0xPVTMzTElWeEJHVUg1SForMUo3RkdCUT09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.1/lasearch_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzF6WGlxQzdOM1JxSUJ2V096M1R0NEpuanQvem5QMmMxSjAyWHYrSUJvWGk4dGQrQ2JQU0xFdjgwYnVEOUtsMk9OemxFWGpuUzBMMmtNY1duYThKbFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDUwMTA3CWZpbGU6bGFzZWFyY2guYXBwLnRhci5nego0cHcxTFVVdnppTmpyb1V6Nm5PMnc1bUtldVpIUlJUc1JMREdpck5mWE9DUGpkOEtVZUpabDlCUjE2ZnJsUzFrQUlBVnFzTDNkUENLQmpuYW40Rk5BZz09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.2/lasearch_x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzFKZWIwZ05JT1lpb0JMZlJ0Y0RjRjlLNUJ5ckYwNVRxNUEyZVdrVFVHOGdFdnlodU1DSzVwc3k0S0VpVXFSc0JwM2hKYVFyTlphcFFKSW0xeDE4b1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzA4MDYzCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpzcVQ0anVUc3BJdlVFS0s1cFJ3a2ZNQkJRY3UrNS9wWUdwd3hDZ0Y4TmxwRUo5UmRrNXd6VHhsdW1BUzVQRkNPRm50K1pDNktmK2xOWjVuS1pyMnNCdz09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.1/lasearch_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBS3dib2cxdlZBMVVMRWI4Ly8rWkI5ZjlYSlA5YUlSWGo1TVlGbEluSVNvMFQxQkx1TWhmQUVyaDhuVEUzejZRVHExNTNpNjhSaTlTMStSamZVK2hTYmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDQ5ODAwCWZpbGU6bGFzZWFyY2guYXBwLnRhci5nego0Uk0vUWtsMTcrMlpxMHVuUDlnQkNJc3l4L3JxZDU3Q1NUc1JhQVhHN1YvWVdtdk5qVVhiNXdpUWh4N2NDTHRDNTBsZE5nY2ZpTFhwelh3UmdjVFNCQT09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.2/lasearch_aarch64.app.tar.gz"
     }
   }
 }
