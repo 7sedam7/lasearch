@@ -1,15 +1,15 @@
 {
-  "version": "0.5.2",
-  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n    <section class=\\\"mb-4\\\">\\n        <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Security</h2>\\n        <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n            <li><strong>Updated packages with vulnerability fixes</strong></li>\\n        </ul>\\n    </section>\\n    <p class=\\\"text-xs text-muted-foreground\\\">Thank you for the continued support and feedback!</p>\\n</div>\\n\"}",
-  "pub_date": "2026-04-01T13:28:28Z",
+  "version": "0.5.3",
+  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n  <section class=\\\"mb-4\\\">\\n    <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Fixes</h2>\\n    <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n      <li>\\n        Fixed an issue where some Word documents could cause indexing to stop\\n        unexpectedly.\\n      </li>\\n    </ul>\\n  </section>\\n  <section class=\\\"mb-4\\\">\\n    <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Maintenance</h2>\\n    <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n      <li>\\n        Updated app packages to keep LaSearch current with security and\\n        maintenance improvements.\\n      </li>\\n    </ul>\\n  </section>\\n  <p class=\\\"text-xs text-muted-foreground\\\">\\n    Thank you for the continued support and feedback!\\n  </p>\\n</div>\\n\"}",
+  "pub_date": "2026-05-20T10:22:02Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzF6WGlxQzdOM1JxSUJ2V096M1R0NEpuanQvem5QMmMxSjAyWHYrSUJvWGk4dGQrQ2JQU0xFdjgwYnVEOUtsMk9OemxFWGpuUzBMMmtNY1duYThKbFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDUwMTA3CWZpbGU6bGFzZWFyY2guYXBwLnRhci5nego0cHcxTFVVdnppTmpyb1V6Nm5PMnc1bUtldVpIUlJUc1JMREdpck5mWE9DUGpkOEtVZUpabDlCUjE2ZnJsUzFrQUlBVnFzTDNkUENLQmpuYW40Rk5BZz09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.2/lasearch_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBS3psTXZKTkgzYm00c25JVnVESkNZQk5uSEoxcE9oa2NXR2pvVjJqcFBDS21lYWJEQ0d4d2JMU01Fd3MxQ0oyaVdVRHRsZ082dlBNY3ZabHZrM1JBM2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjcyNTIxCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpwYUt5UE1xeUNpektoVW9iclhsd2hjdnh6RlFsQVhxVHcvKzNQLzdNMSs4SDdHODNITWZFTUdrMW9QdzJndG0xU1Vhc1BDYm8rVU92NGttQi9ybG1EUT09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.3/lasearch_x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBS3dib2cxdlZBMVVMRWI4Ly8rWkI5ZjlYSlA5YUlSWGo1TVlGbEluSVNvMFQxQkx1TWhmQUVyaDhuVEUzejZRVHExNTNpNjhSaTlTMStSamZVK2hTYmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDQ5ODAwCWZpbGU6bGFzZWFyY2guYXBwLnRhci5nego0Uk0vUWtsMTcrMlpxMHVuUDlnQkNJc3l4L3JxZDU3Q1NUc1JhQVhHN1YvWVdtdk5qVVhiNXdpUWh4N2NDTHRDNTBsZE5nY2ZpTFhwelh3UmdjVFNCQT09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.2/lasearch_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzJ1T2d4cjVYMmErVjZsT1JaVVZlVjRrbXVPWWtvMnl1YkV1cWN2MnRaaForQ1BEbW1vVjBlVGRMYlYvbHFnVmJUWWFkT1RwK1J0ZEd5Vk1YZmNIK1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjcyMjQyCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negordWNWalpmL2laaXllK2d5NExwUHV4a2lEMEh5Y2R1RElEUDk5UnpMRlI0RU1lVXFhSm9iZllZZk1hbmhxVTBPUDRWZXN1a2F6Y0hjbjhhV0N1LzVDUT09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.3/lasearch_aarch64.app.tar.gz"
     }
   }
 }
