@@ -1,15 +1,15 @@
 {
-  "version": "0.5.3",
-  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n  <section class=\\\"mb-4\\\">\\n    <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Fixes</h2>\\n    <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n      <li>\\n        Fixed an issue where some Word documents could cause indexing to stop\\n        unexpectedly.\\n      </li>\\n    </ul>\\n  </section>\\n  <section class=\\\"mb-4\\\">\\n    <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Maintenance</h2>\\n    <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n      <li>\\n        Updated app packages to keep LaSearch current with security and\\n        maintenance improvements.\\n      </li>\\n    </ul>\\n  </section>\\n  <p class=\\\"text-xs text-muted-foreground\\\">\\n    Thank you for the continued support and feedback!\\n  </p>\\n</div>\\n\"}",
-  "pub_date": "2026-05-20T10:22:02Z",
+  "version": "0.5.4",
+  "notes": "{\"notes\":\"<div class=\\\"text-foreground\\\">\\n  <section class=\\\"mb-4\\\">\\n    <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Fixes</h2>\\n    <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n      <li>\\n        Fixed an issue where some EPUB e-books could cause indexing to stop\\n        unexpectedly.\\n      </li>\\n    </ul>\\n  </section>\\n  <section class=\\\"mb-4\\\">\\n    <h2 class=\\\"text-sm font-semibold text-primary mb-2\\\">Security</h2>\\n    <ul class=\\\"list-disc pl-5 text-sm text-muted-foreground space-y-1.5\\\">\\n      <li>\\n        Updated LaSearch's document-processing components to address several\\n        security issues, improving safety when indexing PDF, Office, and web\\n        files.\\n      </li>\\n    </ul>\\n  </section>\\n  <p class=\\\"text-xs text-muted-foreground\\\">\\n    Thank you for the continued support and feedback!\\n  </p>\\n</div>\\n\"}",
+  "pub_date": "2026-07-08T18:29:17Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBS3psTXZKTkgzYm00c25JVnVESkNZQk5uSEoxcE9oa2NXR2pvVjJqcFBDS21lYWJEQ0d4d2JMU01Fd3MxQ0oyaVdVRHRsZ082dlBNY3ZabHZrM1JBM2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjcyNTIxCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpwYUt5UE1xeUNpektoVW9iclhsd2hjdnh6RlFsQVhxVHcvKzNQLzdNMSs4SDdHODNITWZFTUdrMW9QdzJndG0xU1Vhc1BDYm8rVU92NGttQi9ybG1EUT09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.3/lasearch_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBS3gxUytFOHM1dHR6WFM1UzB1M2ZEaERVdFhjZERBSjFuTzdpTEY1QW96MWVxMXBUbmlRZmlnL1NES0t2N2t5TVkrOGdqcFdSOHVnWGFFS1NhZytFbGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTM1MzU2CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negorYmtuUHFsS2kxcDZpakJxb3VVbUJjdjJadTBlaGZNVVlMeWRUU3g0elk1OE5Fam5JWVlmdzVjanlmc1lCMkZRa01Yc3I1WVNjbnM1RkVkNVNHUzhBZz09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.4/lasearch_x86_64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzJ1T2d4cjVYMmErVjZsT1JaVVZlVjRrbXVPWWtvMnl1YkV1cWN2MnRaaForQ1BEbW1vVjBlVGRMYlYvbHFnVmJUWWFkT1RwK1J0ZEd5Vk1YZmNIK1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjcyMjQyCWZpbGU6bGFzZWFyY2guYXBwLnRhci5negordWNWalpmL2laaXllK2d5NExwUHV4a2lEMEh5Y2R1RElEUDk5UnpMRlI0RU1lVXFhSm9iZllZZk1hbmhxVTBPUDRWZXN1a2F6Y0hjbjhhV0N1LzVDUT09Cg==",
-      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.3/lasearch_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNHRHWHgxMnpBSzl2QTRlcjZYSnlZWURDSytnS01EdmxjSC9haGwrOEkrclpUWGZYQ3RaVnI2RlRIQURveS82MG03aXNOdFZadjd1RjVGd1BmdE1xUE9aSFkvR2g0clFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTM0OTI2CWZpbGU6bGFzZWFyY2guYXBwLnRhci5negpHNUNuUnlpODNNV1JvNElYN1RlaFR6b1QwR1EvUjUvUCs5cUhqTktzWnN5NzFlaDNNOCtMbzF2blpSV29uK212S0I0dENRR3NoR2VFZ3o2b2VuQnlBdz09Cg==",
+      "url": "https://github.com/7sedam7/lasearch/releases/download/v0.5.4/lasearch_aarch64.app.tar.gz"
     }
   }
 }
